@@ -1,0 +1,193 @@
+{
+  "_instructions": "This is your master resume — the fullest, most detailed truthful version of your background. JobPilot's tailor.py rewrites the 'summary' and bullets per job posting, pulling from here. Add new roles/projects as they happen; never need to touch this per-application.",
+
+  "contact": {
+    "name": "Dhruv Shah",
+    "email": "dhruv.s1047@gmail.com",
+    "phone": "437-733-1047",
+    "location": "Brampton, ON",
+    "linkedin": "linkedin.com/in/dhruvshah1047",
+    "github": "github.com/dhruvs1047"
+  },
+
+  "summary": "First-year BBA & Computer Science (Double Degree) student at Wilfrid Laurier University with a proven ability to independently build, deploy, and ship real software that solves real problems. Strong foundation across software development, machine learning, and business strategy — comfortable on both sides of the technical and commercial equation. Actively seeking internships, co-ops, and entry-level roles.",
+
+  "education": [
+    {
+      "institution": "Wilfrid Laurier University",
+      "location": "Waterloo, ON",
+      "program": "BBA & BSc Computer Science (Double Degree) — Merit Scholar (90%+ entrance average)",
+      "dates": "Sept 2025 – Apr 2030",
+      "notes": [
+        "Coursework: Data Structures, Algorithms, OOP, Calculus I, Linear Algebra, Microeconomics, Macroeconomics, Financial Accounting",
+        "Active member, Laurier Computing Society — hackathons, software development workshops, industry networking"
+      ]
+    },
+    {
+      "institution": "Castlebrooke Secondary School",
+      "location": "Brampton, ON",
+      "program": "Ontario Secondary School Diploma — ICT Pathway",
+      "dates": "Grad. June 2025",
+      "notes": [
+        "Cumulative GPA: 93% — Honor Roll all four years; CS coursework completed every year"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "wetnwild_lifeguard",
+      "organization": "Wet'n Wild Waterpark",
+      "location": "Toronto, ON",
+      "role": "Lifeguard",
+      "dates": "June 2025 – Sept 2025",
+      "bullets": [
+        "Maintained a zero-incident safety record managing 1,000+ daily guests across high-traffic water attractions by coordinating real-time coverage and hazard communications across a 20+ person team",
+        "Performed water rescues and administered CPR and first aid, demonstrating composure and rapid judgment under pressure",
+        "Maintained accurate daily incident logs and safety records, ensuring documentation stayed compliant with facility standards",
+        "Served as a professional point of contact for guests, handling inquiries and concerns with composure and professionalism"
+      ]
+    },
+    {
+      "id": "goremeadows_instructor",
+      "organization": "Gore Meadows Community Centre",
+      "location": "Brampton, ON",
+      "role": "Swimming, Lifesaving & First Aid Instructor",
+      "dates": "Aug 2022 – Dec 2024",
+      "bullets": [
+        "Instructed 60+ students per season across all age groups by assessing individual needs and adapting delivery accordingly, maintaining a zero-incident record over 2+ years",
+        "Managed student records, attendance tracking, and progress reports for each program term, maintaining accurate and organized files",
+        "Coordinated lesson scheduling and communicated program updates directly to parents and guardians, building strong stakeholder relationships over 2+ years",
+        "Prepared and submitted weekly program reports to facility management, demonstrating consistent attention to detail and written communication"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "ML Stock Market Predictor & Funded Trading System",
+      "dates": "2024 – Present",
+      "bullets": [
+        "Engineered a supervised machine learning model using regression analysis and feature engineering on historical OHLCV data, achieving 68%+ directional accuracy on backtested datasets",
+        "Integrated technical indicators including RSI, MACD, EMA, and volume trend signals as model inputs; iteratively tuned hyperparameters to improve signal quality and reduce false positives",
+        "Applied model outputs to pass multiple proprietary trading firm evaluations — currently operating on live funded trading accounts, validating real-world predictive performance beyond backtesting",
+        "Visualized model predictions, equity curves, and performance metrics using Matplotlib to support data-driven iteration and portfolio review"
+      ],
+      "tech": ["Python", "scikit-learn", "Pandas", "NumPy", "Matplotlib", "TA-Lib"]
+    },
+    {
+      "name": "Business Web Platforms — Multi-Client Development",
+      "dates": "2025 – 2026",
+      "bullets": [
+        "Designed, built, and deployed fully responsive production websites for two local businesses (automotive detailing, catering), implementing service listings, contact/booking forms, and mobile-first responsive design",
+        "Drove a measured ~40% increase in inbound client inquiries for the automotive detailing business by migrating from word-of-mouth to a structured online presence with a streamlined booking flow",
+        "Consulted on digital brand strategy and online growth for both clients — advising on SEO fundamentals, social media integration, and brand consistency",
+        "Managed the full project lifecycle end-to-end: requirements gathering, iterative design sprints, client review cycles, deployment, and ongoing post-launch maintenance"
+      ],
+      "tech": ["HTML", "CSS", "JavaScript", "SEO", "Responsive Design"]
+    },
+    {
+      "name": "Automated Inventory & Sales Tracker",
+      "dates": "2026",
+      "bullets": [
+        "Architected and deployed an automated inventory management and sales tracking system for a small catering business, eliminating manual spreadsheet workflows and recovering ~3 hours of admin overhead per week",
+        "Integrated Google Sheets API for bidirectional real-time data sync across devices; implemented threshold-based alert logic for automated low-stock notifications",
+        "Designed the data schema, error handling, and logging infrastructure to ensure reliability and easy maintainability for a non-technical end user"
+      ],
+      "tech": ["Python", "Google Sheets API", "REST API", "Excel"]
+    },
+    {
+      "name": "VEX & FTC Competition Robot — Software Lead",
+      "dates": "2024 – 2025",
+      "bullets": [
+        "Led software architecture and programming for competition robots across VEX and FTC platforms as part of a 10-person engineering team, implementing autonomous routines, sensor integration, and driver-assist control logic",
+        "Diagnosed and resolved critical real-time software failures under live competition conditions; team placed Top 3 at the FTC regional competition",
+        "Coordinated across mechanical and electrical sub-teams to ensure hardware–software integration met competition specifications and sprint deadlines"
+      ],
+      "tech": ["Arduino", "C", "Python", "Embedded Systems"]
+    }
+  ],
+
+  "leadership": [
+    {
+      "organization": "Castlebrooke SS — Robotics Club",
+      "role": "Team Leader",
+      "dates": "Oct 2024 – June 2025",
+      "bullets": [
+        "Led a 10-person engineering team through full robot design, build, and programming cycles for VEX and FTC competitions, placing Top 3 at the FTC regional competition",
+        "Managed project timelines and delegated tasks across mechanical, electrical, and software sub-teams, maintaining sprint schedules under competition deadlines"
+      ]
+    },
+    {
+      "organization": "Castlebrooke SS — Investment Club",
+      "role": "Director of Education",
+      "dates": "Oct 2024 – June 2025",
+      "bullets": [
+        "Developed and delivered a 10-module curriculum covering equity markets, portfolio theory, ETFs, and macroeconomic analysis to a 40+ member club",
+        "Produced weekly data-driven market research presentations and organized school-wide events and fundraisers for 100+ attendees"
+      ]
+    },
+    {
+      "organization": "Castlebrooke SS — Student Activity Council",
+      "role": "Grade Representative",
+      "dates": "Nov 2024 – June 2025",
+      "bullets": [
+        "Planned and executed 10+ school-wide events with 200+ attendee turnout; served as liaison between students and administration for inclusive programming initiatives"
+      ]
+    },
+    {
+      "organization": "Laurier Computing Society",
+      "role": "Member",
+      "dates": "Sept 2025 – Present",
+      "bullets": [
+        "Engaged with a community of CS and technology students through software development workshops, coding challenges, hackathons, and industry networking events"
+      ]
+    },
+    {
+      "organization": "International Chang-Hon Taekwon-Do Federation",
+      "role": "Assistant Instructor",
+      "dates": "Jan 2018 – Feb 2022",
+      "bullets": [
+        "Co-led daily training sessions for 20+ students over 4 years; delivered technique corrections, progress evaluations, and managed class safety and conflict de-escalation"
+      ]
+    },
+    {
+      "organization": "Royal Canadian Air Cadets, Squadron 283",
+      "role": "Cadet",
+      "dates": "Jan 2019 – Dec 2021",
+      "bullets": [
+        "Developed leadership and discipline through structured military training, drill, and aviation education; contributed to fundraising efforts raising thousands for the Air Cadet nonprofit"
+      ]
+    }
+  ],
+
+  "certifications": [
+    "Google AI Professional Certificate",
+    "GitHub Foundations Certificate",
+    "Anthropic AI Fluency: Framework & Foundations",
+    "Anthropic Introduction to Model Context Protocol (MCP)",
+    "Standard First Aid",
+    "CPR B/C & AED",
+    "Swimming & Lifesaving Instructor Certification",
+    "First Aid Instructor Certification",
+    "HIGH FIVE PHCD"
+  ],
+
+  "skills": {
+    "languages": ["Python", "Java", "JavaScript", "HTML/CSS", "C", "Arduino", "Bash"],
+    "libraries_and_tools": ["scikit-learn", "Pandas", "NumPy", "Matplotlib", "Google Sheets API", "REST APIs", "Git", "GitHub", "VS Code", "Jupyter", "Eclipse", "Microsoft Office Suite", "Google Workspace"],
+    "ai_and_ml": ["Supervised learning", "Feature engineering", "Regression analysis", "Prompt engineering", "LLM tooling", "MCP"],
+    "concepts": ["Data Structures", "OOP", "Algorithms", "SDLC", "Agile (familiar)"],
+    "business": ["Financial Modelling", "Financial Analysis", "KPI Reporting", "Data Visualization", "Client Relations", "Event Planning & Management"],
+    "sales_and_customer_service": ["Consultative selling", "Upselling & cross-selling", "Objection handling", "Needs assessment", "Rapport building", "Conflict resolution", "Multicultural client engagement"],
+    "administrative": ["Calendar coordination", "Email inbox management", "Digital filing systems", "Report preparation", "Stakeholder correspondence"]
+  },
+
+  "additional": {
+    "languages_spoken": {
+      "fluent": ["English", "Gujarati", "Hindi"],
+      "basic": ["French"]
+    },
+    "interests": ["Algorithmic trading", "AI/ML research", "robotics", "open-source development", "fitness", "sports", "reading"]
+  }
+}

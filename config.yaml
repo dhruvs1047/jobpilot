@@ -1,0 +1,71 @@
+# JobPilot search configuration
+# Edit this file to change what counts as a match.
+#
+# NOTE: this file (and data/resume_base.json) can be regenerated automatically
+# for anyone by running: python -m src.onboard your_resume.pdf
+# See README "Making it your own" for details.
+
+search:
+  roles:
+    - "STEM instructor"
+    - "coding instructor"
+    - "technical support"
+    - "IT support"
+    - "software intern"
+    - "AI intern"
+    - "sales associate"
+    - "administrative assistant"
+    - "customer service representative"
+    - "brand ambassador"
+
+  locations:
+    - "Brampton, ON"
+    - "Vaughan, ON"
+    - "Woodbridge, ON"
+    - "Mississauga, ON"
+    - "Remote"
+
+  # widen the net beyond exact city match (km) — Adzuna supports this
+  location_radius_km: 30
+
+  # postings older than this many days are ignored
+  max_posting_age_days: 14
+
+  # only postings scoring at or above this (0-100) get a tailored resume generated
+  tailor_threshold: 65
+
+  # keywords that boost score when present in the posting (skills, tools, certs)
+  boost_keywords:
+    - "Python"
+    - "Java"
+    - "JavaScript"
+    - "HTML"
+    - "CSS"
+    - "Arduino"
+    - "GitHub"
+    - "AI"
+    - "machine learning"
+    - "customer service"
+    - "leadership"
+    - "tutoring"
+    - "STEM"
+    - "sales"
+    - "Google Sheets"
+    - "REST API"
+    - "administrative"
+    - "scheduling"
+
+sources:
+  adzuna:
+    enabled: true
+    country: "ca"
+  jobbank:
+    enabled: true
+    keywords:
+      - "student"
+      - "summer"
+      - "co-op"
+  magnet:
+    enabled: true
+  linkedin:
+    enabled: false   # manual-check only, see README
