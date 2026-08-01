@@ -11,7 +11,7 @@ No API key required.
 import requests
 from bs4 import BeautifulSoup
 
-from .base import JobSource, JobPosting
+from .base import JobSource, JobPosting, infer_job_type
 
 SEARCH_URL = "https://www.jobbank.gc.ca/jobsearch/jobsearch"
 HEADERS = {
@@ -81,6 +81,7 @@ class JobBankSource(JobSource):
                     company_el = card.select_one("li.business")
                     location_el = card.select_one("li.location")
                     summary_el = card.select_one("span.job-desc-text")
+                    description = summary_el.get_text(strip=True) if summary_el else ""
 
                     postings.append(
                         JobPosting(
@@ -93,10 +94,9 @@ class JobBankSource(JobSource):
                             if location_el
                             else location,
                             url=url,
-                            description=summary_el.get_text(strip=True)
-                            if summary_el
-                            else "",
+                            description=description,
                             external_id=job_id,
+                            job_type=infer_job_type(title, description),
                         )
                     )
 

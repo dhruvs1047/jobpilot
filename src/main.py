@@ -10,7 +10,7 @@ import os
 
 from src.config import load_config
 from src.matcher import rank_postings
-from src.notify import send_discord_digest, write_dashboard
+from src.notify import send_discord_digest, write_data_json
 from src.resume_writer import write_resume_docx
 from src.sources.adzuna import AdzunaSource
 from src.sources.jobbank import JobBankSource
@@ -71,7 +71,7 @@ def main():
             write_resume_docx(tailored, out_path, job_title=s.posting.title)
             print(f"[main] Tailored resume written: {out_path}")
 
-    write_dashboard(scored)
+    write_data_json(scored)
     send_discord_digest(scored, threshold)
 
     # mark everything we saw this run (not just matches) so we never re-alert on it

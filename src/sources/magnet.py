@@ -7,7 +7,7 @@ their search page, update the selectors below.
 import requests
 from bs4 import BeautifulSoup
 
-from .base import JobSource, JobPosting
+from .base import JobSource, JobPosting, infer_job_type
 
 SEARCH_URL = "https://magnet.today/en/jobs"
 HEADERS = {
@@ -72,6 +72,9 @@ class MagnetSource(JobSource):
                         url=url,
                         description="",
                         external_id=href,
+                        job_type=infer_job_type(
+                            title_el.get_text(strip=True) if title_el else role
+                        ),
                     )
                 )
 

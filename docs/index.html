@@ -2,14 +2,626 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>JobPilot Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JobPilot — Signal Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem;
-         background: #fafafa; color: #222; }
+  :root {
+    --bg-deep: #0A0E14;
+    --bg-panel: #121822;
+    --bg-panel-hover: #182030;
+    --accent-amber: #FFB454;
+    --accent-cyan: #4FD1C5;
+    --text-primary: #EAF0F6;
+    --text-muted: #6B7A8C;
+    --border: #1E2733;
+    --score-high: #4FD1C5;
+    --score-mid: #FFB454;
+    --score-low: #46525F;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    background: var(--bg-deep);
+    background-image:
+      radial-gradient(circle at 15% 0%, rgba(79,209,197,0.06), transparent 40%),
+      radial-gradient(circle at 85% 20%, rgba(255,180,84,0.05), transparent 35%);
+    color: var(--text-primary);
+    font-family: 'Inter', -apple-system, sans-serif;
+    line-height: 1.5;
+  }
+
+  a { color: inherit; }
+
+  .display { font-family: 'Space Grotesk', sans-serif; }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+
+  /* ---------- Header / instrument bar ---------- */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    backdrop-filter: blur(10px);
+    background: rgba(10,14,20,0.85);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .wordmark {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.15rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  .wordmark .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent-cyan);
+    box-shadow: 0 0 8px var(--accent-cyan);
+    animation: pulse 2.2s ease-in-out infinite;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .wordmark .dot { animation: none; }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+
+  .readouts {
+    display: flex;
+    gap: 28px;
+    flex-wrap: wrap;
+  }
+
+  .readout {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .readout .label {
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+
+  .readout .value {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--accent-amber);
+  }
+
+  /* ---------- Filter bar ---------- */
+  .filter-bar {
+    max-width: 1200px;
+    margin: 28px auto 0;
+    padding: 0 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .search-input {
+    flex: 1 1 260px;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 14px;
+    color: var(--text-primary);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.9rem;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search-input:focus { border-color: var(--accent-cyan); }
+  .search-input::placeholder { color: var(--text-muted); }
+
+  select.filter-select {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    color: var(--text-primary);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    outline: none;
+    cursor: pointer;
+  }
+  select.filter-select:focus { border-color: var(--accent-cyan); }
+
+  .chip-group {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .chip {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 7px 13px;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.15s;
+  }
+  .chip:hover { border-color: var(--accent-cyan); color: var(--text-primary); }
+  .chip.active {
+    background: rgba(79,209,197,0.12);
+    border-color: var(--accent-cyan);
+    color: var(--accent-cyan);
+  }
+  .chip:focus-visible { outline: 2px solid var(--accent-cyan); outline-offset: 2px; }
+
+  .score-filter {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+  .score-filter input[type="range"] {
+    accent-color: var(--accent-amber);
+    width: 100px;
+  }
+  .score-filter .mono { color: var(--accent-amber); min-width: 28px; }
+
+  /* ---------- Job grid ---------- */
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 28px 32px 60px;
+  }
+
+  .result-count {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 14px;
+  }
+
+  .card {
+    display: block;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--score-low);
+    border-radius: 10px;
+    padding: 16px 18px;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: transform 0.12s, background 0.12s, border-color 0.12s;
+  }
+  .card:hover {
+    background: var(--bg-panel-hover);
+    transform: translateY(-2px);
+  }
+  .card:focus-visible { outline: 2px solid var(--accent-cyan); outline-offset: 2px; }
+  .card.score-high { border-left-color: var(--score-high); }
+  .card.score-mid { border-left-color: var(--score-mid); }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  .card-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  .card-company {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  .signal {
+    display: flex;
+    gap: 2px;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  .signal .bar {
+    width: 4px;
+    background: var(--border);
+    border-radius: 1px;
+  }
+  .signal .bar:nth-child(1) { height: 6px; }
+  .signal .bar:nth-child(2) { height: 9px; }
+  .signal .bar:nth-child(3) { height: 12px; }
+  .signal .bar:nth-child(4) { height: 15px; }
+  .signal .bar:nth-child(5) { height: 18px; }
+  .signal .bar.lit-high { background: var(--score-high); }
+  .signal .bar.lit-mid { background: var(--score-mid); }
+
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+
+  .badge {
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 5px;
+    background: rgba(255,255,255,0.04);
+    color: var(--text-muted);
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .badge.salary { color: var(--accent-amber); background: rgba(255,180,84,0.08); }
+  .badge.source { color: var(--accent-cyan); background: rgba(79,209,197,0.08); }
+
+  .card-desc {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* ---------- Empty state ---------- */
+  .empty-state {
+    text-align: center;
+    padding: 70px 20px;
+    color: var(--text-muted);
+  }
+  .radar {
+    width: 90px;
+    height: 90px;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    position: relative;
+    overflow: hidden;
+  }
+  .radar::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: conic-gradient(from 0deg, rgba(79,209,197,0.35), transparent 30%);
+    animation: sweep 3s linear infinite;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .radar::before { animation: none; }
+  }
+  @keyframes sweep { to { transform: rotate(360deg); } }
+  .empty-state h3 { color: var(--text-primary); font-family: 'Space Grotesk', sans-serif; margin: 0 0 6px; }
+  .empty-state p { font-size: 0.85rem; max-width: 360px; margin: 0 auto; }
+
+  /* ---------- Get started ---------- */
+  .get-started {
+    max-width: 1200px;
+    margin: 20px auto 60px;
+    padding: 0 32px;
+  }
+  .get-started-panel {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 28px 32px;
+  }
+  .get-started-panel h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 1.1rem;
+    margin: 0 0 6px;
+  }
+  .get-started-panel > p {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin: 0 0 22px;
+    max-width: 640px;
+  }
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 18px;
+  }
+  .step .step-num {
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--accent-cyan);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+  }
+  .step h3 {
+    font-size: 0.88rem;
+    margin: 4px 0 8px;
+  }
+  .step code, .terminal {
+    display: block;
+    background: var(--bg-deep);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--accent-cyan);
+    overflow-x: auto;
+    white-space: pre;
+  }
+
+  /* ---------- Footer ---------- */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 22px 32px;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+  }
+  footer a { color: var(--accent-cyan); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
 </style>
 </head>
 <body>
-  <h1>JobPilot — Matched Postings</h1>
-  <p>No runs yet. This page updates automatically once the daily GitHub Action runs.</p>
+
+<header>
+  <div class="wordmark"><span class="dot"></span>JOBPILOT</div>
+  <div class="readouts">
+    <div class="readout"><span class="label">Signals</span><span class="value mono" id="stat-count">—</span></div>
+    <div class="readout"><span class="label">Avg Match</span><span class="value mono" id="stat-avg">—</span></div>
+    <div class="readout"><span class="label">Last Scan</span><span class="value mono" id="stat-updated">—</span></div>
+  </div>
+</header>
+
+<div class="filter-bar">
+  <input class="search-input" type="text" id="search" placeholder="Search title, company, keyword…">
+  <select class="filter-select" id="filter-location"><option value="">All locations</option></select>
+  <select class="filter-select" id="filter-type"><option value="">Any job type</option></select>
+  <select class="filter-select" id="filter-salary">
+    <option value="0">Any salary</option>
+    <option value="20000">$20k+</option>
+    <option value="40000">$40k+</option>
+    <option value="60000">$60k+</option>
+    <option value="80000">$80k+</option>
+  </select>
+  <div class="chip-group" id="source-chips"></div>
+  <div class="score-filter">
+    <span>Min match</span>
+    <input type="range" min="0" max="100" value="0" id="score-range">
+    <span class="mono" id="score-range-value">0</span>
+  </div>
+</div>
+
+<main>
+  <div class="result-count" id="result-count"></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="empty-state" style="display:none;">
+    <div class="radar"></div>
+    <h3 id="empty-title">No signals yet</h3>
+    <p id="empty-text">Matches will appear here after the next scheduled scan runs.</p>
+  </div>
+</main>
+
+<div class="get-started">
+  <div class="get-started-panel">
+    <h2>Run this for yourself</h2>
+    <p>JobPilot isn't hard-coded to one resume. Point it at your own and it rebuilds this whole board around you.</p>
+    <div class="steps">
+      <div class="step">
+        <span class="step-num">01 / CLONE</span>
+        <h3>Get the pipeline</h3>
+        <code>git clone github.com/dhruvs1047/jobpilot</code>
+      </div>
+      <div class="step">
+        <span class="step-num">02 / ONBOARD</span>
+        <h3>Feed it your resume</h3>
+        <code>python -m src.onboard resume.pdf</code>
+      </div>
+      <div class="step">
+        <span class="step-num">03 / DEPLOY</span>
+        <h3>Add free API keys &amp; push</h3>
+        <code>git push  →  runs daily via GitHub Actions</code>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  Built by Dhruv Shah — Python · GitHub Actions · Claude API · <a href="https://github.com/dhruvs1047/jobpilot" target="_blank" rel="noopener">source on GitHub</a>
+</footer>
+
+<script>
+let allJobs = [];
+
+function scoreBand(score) {
+  if (score >= 75) return 'high';
+  if (score >= 45) return 'mid';
+  return 'low';
+}
+
+function signalHTML(score) {
+  const litCount = Math.max(1, Math.round(score / 20));
+  const band = scoreBand(score);
+  const litClass = band === 'high' ? 'lit-high' : band === 'mid' ? 'lit-mid' : '';
+  let bars = '';
+  for (let i = 1; i <= 5; i++) {
+    bars += `<span class="bar ${i <= litCount ? litClass : ''}"></span>`;
+  }
+  return `<div class="signal" title="${score}/100 match" aria-label="${score} out of 100 match">${bars}</div>`;
+}
+
+function timeAgo(iso) {
+  if (!iso) return '—';
+  const diffMs = Date.now() - new Date(iso).getTime();
+  const hrs = Math.floor(diffMs / 3600000);
+  if (hrs < 1) return 'just now';
+  if (hrs < 24) return `${hrs}h ago`;
+  return `${Math.floor(hrs / 24)}d ago`;
+}
+
+function populateFilterOptions(jobs) {
+  const locSel = document.getElementById('filter-location');
+  const typeSel = document.getElementById('filter-type');
+  const sourceChips = document.getElementById('source-chips');
+
+  const locations = [...new Set(jobs.map(j => j.location).filter(Boolean))].sort();
+  locations.forEach(loc => {
+    const opt = document.createElement('option');
+    opt.value = loc; opt.textContent = loc;
+    locSel.appendChild(opt);
+  });
+
+  const types = [...new Set(jobs.map(j => j.job_type).filter(Boolean))].sort();
+  types.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    typeSel.appendChild(opt);
+  });
+
+  const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
+  sources.forEach(src => {
+    const chip = document.createElement('button');
+    chip.className = 'chip active';
+    chip.textContent = src;
+    chip.dataset.source = src;
+    chip.addEventListener('click', () => {
+      chip.classList.toggle('active');
+      render();
+    });
+    sourceChips.appendChild(chip);
+  });
+}
+
+function activeSources() {
+  return [...document.querySelectorAll('#source-chips .chip.active')].map(c => c.dataset.source);
+}
+
+function render() {
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const loc = document.getElementById('filter-location').value;
+  const type = document.getElementById('filter-type').value;
+  const minSalary = parseInt(document.getElementById('filter-salary').value, 10);
+  const minScore = parseInt(document.getElementById('score-range').value, 10);
+  const sources = activeSources();
+
+  const filtered = allJobs.filter(j => {
+    if (q) {
+      const hay = `${j.title} ${j.company} ${(j.matched_keywords || []).join(' ')} ${j.description || ''}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    if (loc && j.location !== loc) return false;
+    if (type && j.job_type !== type) return false;
+    if (minSalary > 0 && (!j.salary_min || j.salary_min < minSalary)) return false;
+    if (j.score < minScore) return false;
+    if (sources.length && !sources.includes(j.source)) return false;
+    return true;
+  });
+
+  filtered.sort((a, b) => b.score - a.score);
+
+  const grid = document.getElementById('grid');
+  const emptyState = document.getElementById('empty-state');
+  const resultCount = document.getElementById('result-count');
+
+  resultCount.textContent = `${filtered.length} of ${allJobs.length} signals shown`;
+
+  if (filtered.length === 0) {
+    grid.style.display = 'none';
+    emptyState.style.display = 'block';
+    if (allJobs.length === 0) {
+      document.getElementById('empty-title').textContent = 'No signals yet';
+      document.getElementById('empty-text').textContent = 'Matches will appear here after the next scheduled scan runs.';
+    } else {
+      document.getElementById('empty-title').textContent = 'No matches for these filters';
+      document.getElementById('empty-text').textContent = 'Try widening your search — loosen a filter or lower the minimum match.';
+    }
+    return;
+  }
+
+  grid.style.display = 'grid';
+  emptyState.style.display = 'none';
+
+  grid.innerHTML = filtered.map(j => `
+    <a class="card score-${scoreBand(j.score)}" href="${j.url}" target="_blank" rel="noopener">
+      <div class="card-top">
+        <div>
+          <div class="card-title">${escapeHTML(j.title)}</div>
+          <div class="card-company">${escapeHTML(j.company)}</div>
+        </div>
+        ${signalHTML(j.score)}
+      </div>
+      <div class="card-meta">
+        <span class="badge">${escapeHTML(j.location || 'Location n/a')}</span>
+        ${j.salary ? `<span class="badge salary">${escapeHTML(j.salary)}</span>` : ''}
+        ${j.job_type ? `<span class="badge">${escapeHTML(j.job_type)}</span>` : ''}
+        <span class="badge source">${escapeHTML(j.source)}</span>
+      </div>
+      <div class="card-desc">${escapeHTML(j.description || '')}</div>
+    </a>
+  `).join('');
+}
+
+function escapeHTML(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+async function init() {
+  try {
+    const res = await fetch('data.json', { cache: 'no-store' });
+    const data = await res.json();
+    allJobs = data.jobs || [];
+
+    document.getElementById('stat-count').textContent = allJobs.length;
+    const avg = allJobs.length ? Math.round(allJobs.reduce((s, j) => s + j.score, 0) / allJobs.length) : 0;
+    document.getElementById('stat-avg').textContent = allJobs.length ? `${avg}/100` : '—';
+    document.getElementById('stat-updated').textContent = timeAgo(data.generated_at);
+
+    populateFilterOptions(allJobs);
+  } catch (e) {
+    console.warn('Could not load data.json yet', e);
+    allJobs = [];
+  }
+  render();
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('filter-location').addEventListener('change', render);
+document.getElementById('filter-type').addEventListener('change', render);
+document.getElementById('filter-salary').addEventListener('change', render);
+document.getElementById('score-range').addEventListener('input', (e) => {
+  document.getElementById('score-range-value').textContent = e.target.value;
+  render();
+});
+
+init();
+</script>
+
 </body>
 </html>

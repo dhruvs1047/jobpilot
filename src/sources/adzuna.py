@@ -9,7 +9,7 @@ Env vars required: ADZUNA_APP_ID, ADZUNA_APP_KEY
 import os
 import requests
 
-from .base import JobSource, JobPosting
+from .base import JobSource, JobPosting, infer_job_type
 
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/{country}/search/1"
 
@@ -73,10 +73,14 @@ class AdzunaSource(JobSource):
                         continue
                     seen_urls.add(url)
 
+                    title = item.get("title", "").strip()
+                    description = item.get("description", "")
+                    explicit_type = _adzuna_job_type(item)
+
                     postings.append(
                         JobPosting(
                             source="adzuna",
-                            title=item.get("title", "").strip(),
+                            title=title,
                             company=(item.get("company") or {}).get(
                                 "display_name", "Unknown"
                             ),
@@ -84,15 +88,29 @@ class AdzunaSource(JobSource):
                                 "display_name", location
                             ),
                             url=url,
-                            description=item.get("description", ""),
+                            description=description,
                             posted_date=item.get("created"),
                             external_id=str(item.get("id")),
                             salary=_format_salary(item),
+                            salary_min=item.get("salary_min"),
+                            job_type=infer_job_type(title, description, explicit_type),
                         )
                     )
 
         print(f"[adzuna] Fetched {len(postings)} unique postings")
         return postings
+
+
+def _adzuna_job_type(item: dict) -> str | None:
+    contract_type = (item.get("contract_type") or "").lower()   # permanent / contract
+    contract_time = (item.get("contract_time") or "").lower()   # full_time / part_time
+    if contract_type == "contract":
+        return "Contract"
+    if contract_time == "part_time":
+        return "Part-time"
+    if contract_time == "full_time":
+        return "Full-time"
+    return None
 
 
 def _format_salary(item: dict) -> str | None:
