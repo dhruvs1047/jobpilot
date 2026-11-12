@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-11-11T19:03+00:00",
-  "count": 91,
+  "generated_at": "2026-11-12T19:21+00:00",
+  "count": 81,
   "jobs": [
-    {
-      "score": 84,
-      "title": "Administrative Assistant/Receptionist (Part-Time, Weekends)",
-      "company": "Reena",
-      "location": "Vaughan, York region",
-      "url": "https://www.adzuna.ca/land/ad/5960417198?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=3CD73490380BCAAF6E96EF94858B7591A2BA997D",
-      "source": "adzuna",
-      "salary": "$37,440\u2013$37,440",
-      "salary_min": 37440,
-      "job_type": "Part-time",
-      "posted_date": "2026-11-10T09:17:11Z",
-      "description": "Job Description Job Description Description Job Summary: The Administrative Assistant & Receptionist is responsible to provide ongoing receptionist and administrative support to Reena at an assigned work location and provide back up support where required. Duties will include, but not limited to serving all visitors, residents and staff in a welcoming manner and directing them appropriately, notif",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "STEM",
-        "administrative"
-      ]
-    },
     {
       "score": 81,
       "title": "Sales Associate",
       "company": "Torrid",
-      "location": "Brampton, Peel region",
-      "url": "https://www.adzuna.ca/details/5959235242?utm_medium=api&utm_source=faa80cd6",
+      "location": "Vaughan, York region",
+      "url": "https://www.adzuna.ca/details/5962899190?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
+      "salary": "$36,608\u2013$38,272",
+      "salary_min": 36608,
       "job_type": "Not specified",
-      "posted_date": "2026-11-09T08:43:15Z",
-      "description": "Job Description Job Description At Torrid, we celebrate every shape, every size, and every curve of our customer. Our Torrid stores offer an exciting, one-of-a-kind, amazing experience for not just our customers, but our employees. We're committed to cultivating a welcoming, inclusive and diverse culture driven by a focus on open dialogue, empowerment, recruiting, training & development and retent",
+      "posted_date": "2026-11-12T05:08:17Z",
+      "description": "Description At Torrid, we celebrate every shape, every size, and every curve of our customer. Our Torrid stores offer an exciting, one-of-a-kind, amazing experience for not just our customers, but our employees. We're committed to cultivating a welcoming, inclusive and diverse culture driven by a focus on open dialogue, empowerment, recruiting, training & development and retention. We believe incl",
       "matched_keywords": [
         "sales associate",
         "AI",
@@ -41,186 +22,77 @@
     },
     {
       "score": 78,
-      "title": "Technical Support Manager",
-      "company": "I-Gard Corporation",
-      "location": "Mississauga, Peel region",
-      "url": "https://www.adzuna.ca/details/5961954857?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-11T12:23:21Z",
-      "description": "As we continue to grow and extend our product offering and technical support capabilities, we are in need of adding a Technical Support Manager , who will report to the Vice President of Engineering. The primary responsibility of this position is to provide technical and application support as well as daily task management to the resistor engineering and technical customer support teams. This is a",
-      "matched_keywords": [
-        "technical support",
-        "AI"
-      ]
-    },
-    {
-      "score": 78,
-      "title": "Customer Service Representative",
-      "company": "Charger Logistics Inc",
-      "location": "Brampton, Peel region",
-      "url": "https://www.adzuna.ca/details/5961827108?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-11T11:21:09Z",
-      "description": "Charger Logistics is a world class asset-based carrier. We specialize in delivering your assets, on time and on budget. With the diverse fleet of equipment, we can handle a range of freight, including dedicated loads, specialized hauls, temperature-controlled goods and HAZMAT cargo. Charger logistics invests time and support into its employees to provide them with the room to learn and grow their ",
-      "matched_keywords": [
-        "customer service representative",
-        "customer service"
-      ]
-    },
-    {
-      "score": 78,
-      "title": "Customer Service Representative",
-      "company": "Domino's Pizza Canada",
-      "location": "Woodbridge, York region",
-      "url": "https://www.adzuna.ca/details/5959227455?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-09T08:40:49Z",
-      "description": "Job Description Job Description JOB DESCRIPTION Hot job opening, fresh out of the Oven! Do you like people? Do you like pizza? We are searching for just the right person to join our team at Domino's in Brampton, Bolton, Nobleton and Vaughan! To join our team, two things are vital; First, and most importantly, you must be friendly! Second, you must be willing to work hard, support your fellow team ",
-      "matched_keywords": [
-        "customer service representative",
-        "customer service"
-      ]
-    },
-    {
-      "score": 78,
-      "title": "Customer Service Representative",
-      "company": "Domino's Pizza Canada",
-      "location": "Brampton, Peel region",
-      "url": "https://www.adzuna.ca/details/5959244717?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-09T08:46:09Z",
-      "description": "Job Description Job Description JOB DESCRIPTION Hot job opening, fresh out of the Oven! Do you like people? Do you like pizza? We are searching for just the right person to join our team! To join our team, two things are vital; First, and most importantly, you must be friendly! Second, you must be willing to work hard, support your fellow team members, and learn quickly. Previous Domino's Pizza, L",
-      "matched_keywords": [
-        "customer service representative",
-        "customer service"
-      ]
-    },
-    {
-      "score": 78,
-      "title": "Brand Ambassadors",
-      "company": "The RPM Groups",
-      "location": "Mississauga, Peel region",
-      "url": "https://www.adzuna.ca/details/5955737893?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-06T08:17:19Z",
-      "description": "Job Description Job Description We\u2019re Hiring: Lead Gen Sales Representative Help homeowners save energy and reduce costs! We specialize in high-quality attic insulation solutions that make homes more comfortable and energy efficient. We\u2019re looking for motivated Sales Representatives to join our team and connect homeowners with the benefits of proper insulation. What You\u2019ll Do: \u2022 Generate leads and",
-      "matched_keywords": [
-        "brand ambassador",
-        "sales"
-      ]
-    },
-    {
-      "score": 78,
-      "title": "AE - Sr Brand Ambassador (Sr Sales Associate)",
-      "company": "American Eagle Outfitters, Inc.",
-      "location": "Brampton, Peel region",
-      "url": "https://www.adzuna.ca/details/5961954508?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:23:16Z",
-      "description": "Cella by Randstad Digital is excited to partner with a global leader in high-end architectural solutions to find a strategic and forward-thinking Strategic Marketing Manager. Our client is an international organization known for its innovative Scandinavian design and dominant market presence. This is a newly created, hybrid role based in Vaughan, offering the chance to shape the North American mar",
-      "matched_keywords": [
-        "sales associate",
-        "sales"
-      ]
-    },
-    {
-      "score": 65,
-      "title": "Administrative Assistant",
-      "company": "Jean Tweed Centre",
-      "location": "Etobicoke, Toronto",
-      "url": "https://www.adzuna.ca/land/ad/5961708328?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=82F40B9E1015729E6B95CEE426B0C49235105DF5",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T08:59:51Z",
-      "description": "Job Description Job Description Position Purpose The Administrative Assistant provides general administrative and clerical support to the organization. The role involves coordinating departmental programs/activities, organizing meetings, document processing and ensuring proper file management systems. The position includes a range of administrative services that are performed with a customer servi",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "customer service",
-        "STEM",
-        "administrative",
-        "scheduling"
-      ]
-    },
-    {
-      "score": 65,
-      "title": "Administrative Assistant",
-      "company": "Jean Tweed Centre",
-      "location": "Swansea, City of Toronto",
-      "url": "https://www.adzuna.ca/details/5960650536?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": "$30,459\u2013$35,633",
-      "salary_min": 30459,
-      "job_type": "Contract",
-      "posted_date": "2026-11-10T14:27:04Z",
-      "description": "Position Purpose The Administrative Assistant provides general administrative and clerical support to the organization. The role involves coordinating departmental programs/activities, organizing meetings, document processing and ensuring proper file management systems. The position includes a range of administrative services that are performed with a customer service focus, including booking appo",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "customer service",
-        "STEM",
-        "administrative",
-        "scheduling"
-      ]
-    },
-    {
-      "score": 65,
-      "title": "Administrative Assistant",
-      "company": "Jean Tweed Centre",
-      "location": "Etobicoke, Toronto",
-      "url": "https://www.adzuna.ca/land/ad/5961708328?se=Pq8gSwLe8RG2gvl2oUmJsg&utm_medium=api&utm_source=faa80cd6&v=82F40B9E1015729E6B95CEE426B0C49235105DF5",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T08:59:51Z",
-      "description": "Job Description Job Description Position Purpose The Administrative Assistant provides general administrative and clerical support to the organization. The role involves coordinating departmental programs/activities, organizing meetings, document processing and ensuring proper file management systems. The position includes a range of administrative services that are performed with a customer servi",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "customer service",
-        "STEM",
-        "administrative",
-        "scheduling"
-      ]
-    },
-    {
-      "score": 64,
-      "title": "AI Engineer, Agentic Systems (Intern / New Grad)",
-      "company": "Chorus AI",
+      "title": "Remote Outbound Sales Associate (Work From Home - Canada)",
+      "company": "SP Data Digital",
       "location": "Canada",
-      "url": "https://www.adzuna.ca/details/5961941427?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/land/ad/5946997691?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=87A1A93DE1B768BFFB88A0E3BA29FB253D1BE65A",
+      "source": "adzuna",
+      "salary": "$35,464\u2013$35,464",
+      "salary_min": 35464,
+      "job_type": "Full-time",
+      "posted_date": "2026-10-30T10:11:59Z",
+      "description": "Job Description Job Description Remote Outbound Sales Associate (Work From Home \u2013 Canada) Remote | Full-Time | $17.05 CAD/hour  Uncapped Commission | Company Equipment Provided Grow Your Sales Career From Anywhere in Canada SP Data Digital is hiring Remote Outbound Sales Associates across Canada. If you enjoy connecting with customers, uncovering opportunities, and earning uncapped commission, thi",
+      "matched_keywords": [
+        "sales associate",
+        "sales"
+      ]
+    },
+    {
+      "score": 65,
+      "title": "Administrative Assistant",
+      "company": "Jean Tweed Centre",
+      "location": "Etobicoke, Toronto",
+      "url": "https://www.adzuna.ca/details/5961708328?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:20:07Z",
-      "description": "AI Engineer, Agentic Systems (Intern / New Grad) Applied AI / LLM Systems / Financial Intelligence Canada Remote Internship or Full-Time (Early-Career) CAD 90,000 - 150,000 Recent graduates are welcome. About the role This is not a passive support role. You will work on product-facing AI problems across agentic systems, NLP, financial intelligence, intelligent automation, and applied machine learn",
+      "job_type": "Not specified",
+      "posted_date": "2026-11-11T08:59:51Z",
+      "description": "Job Description Job Description Position Purpose The Administrative Assistant provides general administrative and clerical support to the organization. The role involves coordinating departmental programs/activities, organizing meetings, document processing and ensuring proper file management systems. The position includes a range of administrative services that are performed with a customer servi",
+      "matched_keywords": [
+        "administrative assistant",
+        "AI",
+        "customer service",
+        "STEM",
+        "administrative",
+        "scheduling"
+      ]
+    },
+    {
+      "score": 61,
+      "title": "Manager IT - Internal Audit/Gestionnaire de l'audit des ti, audit interne d'entreprise",
+      "company": "MDA",
+      "location": "Brampton, Peel region",
+      "url": "https://www.adzuna.ca/details/5946006795?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-10-29T13:53:56Z",
+      "description": "Building the space between proven and possible, MDA Space (TSX:MDA) is a trusted mission partner to the global space industry. A robotics, satellite systems and geointelligence pioneer with a 55-year story of world firsts and more than 450 missions, MDA Space is a global leader in communications satellites, Earth and space observation, and space exploration and infrastructure. The MDA Space team o",
       "matched_keywords": [
         "AI intern (partial)",
         "AI",
-        "machine learning",
         "STEM"
+      ]
+    },
+    {
+      "score": 59,
+      "title": "Sales Associate",
+      "company": "Ardene",
+      "location": "Etobicoke, Toronto",
+      "url": "https://www.adzuna.ca/details/5962870464?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T04:43:33Z",
+      "description": "THIS COULD BE YOU! Want to be part of an amazing team? If you\u2019re a friendly and energetic person with an interest in fashion retail \u2013 we want to hear from you The Role The Sales Associate provides outstanding customer service, merchandises, generates and processes sales as well as maintains the store\u2019s cleanliness and appearance. Responsibilities Include: \u00b7 Ensuring outstanding service by creating",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "customer service",
+        "sales"
       ]
     },
     {
@@ -228,7 +100,7 @@
       "title": "Administrative Assistant",
       "company": "The Avenue Realty Team",
       "location": "Richmond Hill, York region",
-      "url": "https://www.adzuna.ca/land/ad/5961711091?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=3F1626AC43EAB17411328D16659866DDDD32B729",
+      "url": "https://www.adzuna.ca/details/5961711091?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": "$50,000\u2013$50,000",
       "salary_min": 50000,
@@ -244,16 +116,35 @@
     },
     {
       "score": 59,
-      "title": "Administrative Assistant",
-      "company": "Bruce Collision Centre",
-      "location": "Middleton, Annapolis",
-      "url": "https://www.adzuna.ca/land/ad/5955695496?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=B0CC32DF265C10AD53CDD4B683A52FCF441B556E",
+      "title": "Administrative Assistant - Part Time",
+      "company": "First Student",
+      "location": "Flin Flon, North",
+      "url": "https://www.adzuna.ca/details/5947997911?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": "$37,440\u2013$41,600",
-      "salary_min": 37440,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-06T08:06:54Z",
-      "description": "Job Description Job Description Administrative Assistant \u2013 CSN Bruce Collision Centre Location: Middleton, NS Position: Full-time, Permanent Overview We are seeking a dynamic, detail-oriented Administrative Assistant to join our team at CSN Bruce Collision Centre! In this vital role, you will serve as the operational backbone of our front desk, ensuring smooth daily functions and delivering except",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Part-time",
+      "posted_date": "2026-10-31T08:10:26Z",
+      "description": "Job Description Job Description The administrative assistant performs routine clerical and administrative functions such as drafting correspondence, scheduling appointments, organizing/maintaining paper and electronic files, coding and processing of department invoices, providing information to callers, and updating various reports Responsibilities: Assist in other processes such as reconciliation",
+      "matched_keywords": [
+        "administrative assistant",
+        "AI",
+        "administrative",
+        "scheduling"
+      ]
+    },
+    {
+      "score": 59,
+      "title": "Administrative Assistant / AR / AP",
+      "company": "Liberty Staffing",
+      "location": "London, Middlesex",
+      "url": "https://www.adzuna.ca/details/5950549095?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-02T07:36:59Z",
+      "description": "Job Description Job Description On behalf of our client, we are recruiting for a current opening for an Administrative / AR AP Assistant for their London location. *Must be available to start right away* Duties Include: - Process and ensure the accuracy of all customer orders and documentation. - Set up, organize, and maintain all customer files. - Collect and process customer payments (A/P and A/",
       "matched_keywords": [
         "administrative assistant",
         "AI",
@@ -262,47 +153,11 @@
       ]
     },
     {
-      "score": 59,
-      "title": "Administrative Assistant",
-      "company": "The Avenue Realty Team",
-      "location": "Richmond Hill, York region",
-      "url": "https://www.adzuna.ca/land/ad/5961711091?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=3F1626AC43EAB17411328D16659866DDDD32B729",
-      "source": "adzuna",
-      "salary": "$50,000\u2013$50,000",
-      "salary_min": 50000,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-11T09:01:59Z",
-      "description": "Job Description Job Description The Avenue Realty Team is seeking a proactive and highly organized Junior Administrative Assistant to support our leadership team and ensure smooth daily operations. In this dynamic role, you will serve as the right hand to our executives\u2014managing schedules, overseeing projects, and handling key administrative responsibilities that drive the success of our real esta",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "leadership",
-        "administrative"
-      ]
-    },
-    {
       "score": 58,
       "title": "Administration Assistant",
       "company": "Blue Bear Solutions Inc",
       "location": "Mississauga, Peel region",
-      "url": "https://www.adzuna.ca/land/ad/5959200819?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=14CDFE897AE713F1C0F69A8B6BA2B85CFA11A27D",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-09T08:33:28Z",
-      "description": "Job Description Job Description Administrator required for temporary position. 3-6 months. Your new company This not-for-profit organisation provides support to people from all backgrounds and prides themselves on encouraging the positive development of communities and their people. Your new role As the Administrator the main aspect of your role will be responding to email and telephone inquiries,",
-      "matched_keywords": [
-        "IT support (partial)",
-        "AI"
-      ]
-    },
-    {
-      "score": 58,
-      "title": "Administration Assistant",
-      "company": "Blue Bear Solutions Inc",
-      "location": "Mississauga, Peel region",
-      "url": "https://www.adzuna.ca/land/ad/5959200819?se=Pq8gSwLe8RG2gvl2oUmJsg&utm_medium=api&utm_source=faa80cd6&v=14CDFE897AE713F1C0F69A8B6BA2B85CFA11A27D",
+      "url": "https://www.adzuna.ca/details/5959200819?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
@@ -316,16 +171,16 @@
     },
     {
       "score": 56,
-      "title": "System Technical Support",
-      "company": "Geek+",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961949572?utm_medium=api&utm_source=faa80cd6",
+      "title": "IT Support",
+      "company": "Jobs for Humanity",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/details/5962344881?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:21:58Z",
-      "description": "1. Conduct in-depth troubleshooting and resolution of complex technical issues escalated from L1 support, including system anomalies, performance bottlenecks, and integration failures. 2. Prepare detailed technical case studies and solution documentation, and continuously improve the team knowledge base. 3. Collaborate on system upgrades, working closely with R&D, product, and other departments to",
+      "posted_date": "2026-11-11T20:08:44Z",
+      "description": "Job Description The role also requires a basic understanding of Coinbase services, cryptocurrency, blockchain technology, and digital asset platforms. The ideal candidate should be comfortable working with technology, protecting sensitive information, and providing timely technical support. Key Responsibilities Provide technical support and troubleshoot computer, software, and network issues. Assi",
       "matched_keywords": [
         "technical support",
         "AI",
@@ -334,34 +189,16 @@
     },
     {
       "score": 56,
-      "title": "IT Support and Systems Admin Specialist",
-      "company": "PV Labs",
-      "location": "Burlington, Halton",
-      "url": "https://www.adzuna.ca/details/5961708840?utm_medium=api&utm_source=faa80cd6",
+      "title": "Seasonal Retail Sales Associate-POLO PARK MALL",
+      "company": "Bath & Body Works",
+      "location": "Winnipeg region, Manitoba",
+      "url": "https://www.adzuna.ca/land/ad/5962288943?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=4BD03612DCF64248B77F0E698FCEDB9D4C482B16",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-11T09:00:12Z",
-      "description": "Job Description Job Description IT Support Specialist Aerospace and Defence - Airborne Intelligence, Surveillance and Reconnaissance Systems Department: Information Technology | Reports to: IT Manager Location: Burlington, Ontario | Employment: Full-time Please note: Candidates must be eligible to meet the requirements of the Canadian Controlled Goods Program and be able to hold and maintain a Can",
-      "matched_keywords": [
-        "IT support",
-        "AI",
-        "STEM"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Sales Associate",
-      "company": "Torrid",
-      "location": "Concord, York region",
-      "url": "https://www.adzuna.ca/details/5961716656?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T09:08:13Z",
-      "description": "Job Description Job Description At Torrid, we celebrate every shape, every size, and every curve of our customer. Our Torrid stores offer an exciting, one-of-a-kind, amazing experience for not just our customers, but our employees. We're committed to cultivating a welcoming, inclusive and diverse culture driven by a focus on open dialogue, empowerment, recruiting, training & development and retent",
+      "job_type": "Part-time",
+      "posted_date": "2026-11-11T18:52:17Z",
+      "description": "Job Description Great Part Time Job | 40% Discount | Free Product | EAP | Fun Stores \\n \\n \\n At Bath & Body Works, we believe everybody deserves to feel good. When you join us, you're part of more than an iconic fragrance and personal care brand - you become part of Gingham Nation, where people are at the center of everything we do.\\n \\n \\n We believe great associate experiences create great cons",
       "matched_keywords": [
         "sales associate",
         "AI",
@@ -370,16 +207,196 @@
     },
     {
       "score": 56,
-      "title": "Sales Associate",
-      "company": "JD Sports",
-      "location": "Scarborough, Toronto",
-      "url": "https://www.adzuna.ca/details/5961464544?utm_medium=api&utm_source=faa80cd6",
+      "title": "Seasonal Retail Sales Associate-GALERIES DE LA CAPITALE",
+      "company": "Bath & Body Works",
+      "location": "Qu\u00e9bec, Canada",
+      "url": "https://www.adzuna.ca/land/ad/5962288942?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=58B9ACDC5ADD57AEDCCB534DBCD8BACB13421A29",
       "source": "adzuna",
-      "salary": "$36,608\u2013$36,608",
-      "salary_min": 36608,
+      "salary": null,
+      "salary_min": null,
       "job_type": "Part-time",
-      "posted_date": "2026-11-11T04:50:34Z",
-      "description": "Department: Retail Stores Location: Scarborough Town Centre, ON Workplace Type: On-site Job Type: Part-time, Permanent Salary: $17.60 per hour The Team: JD Sports is a sports-fashion retail company with the incentive to inspire the emerging generation of globally minded consumers through a connection to the universal culture of sport, music and fashion. Established in 1981, the JD Group is a leadi",
+      "posted_date": "2026-11-11T18:52:17Z",
+      "description": "Job Description Great Part Time Job | 40% Discount | Free Product | EAP | Fun Stores \\n \\n \\n At Bath & Body Works, we believe everybody deserves to feel good. When you join us, you're part of more than an iconic fragrance and personal care brand - you become part of Gingham Nation, where people are at the center of everything we do.\\n \\n \\n We believe great associate experiences create great cons",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Part-time Sales Associate/Eyewear Stylist - Kitsilano",
+      "company": "Bailey Nelson",
+      "location": "Vancouver, Greater Vancouver",
+      "url": "https://www.adzuna.ca/land/ad/5958181494?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=D4D3C19710754B3DEF1FD67C2DCC517F0D02952B",
+      "source": "adzuna",
+      "salary": "$39,000\u2013$39,000",
+      "salary_min": 39000,
+      "job_type": "Part-time",
+      "posted_date": "2026-11-08T08:37:11Z",
+      "description": "Job Description Job Description Bailey Nelson is currently in search of an Eyewear Stylist to join our amazing team at Kitsilano, Vancouver. At Bailey Nelson, we know our team is the secret to our success. We\u2019re all about changing how our customers see the world and how the world sees them. You will play a crucial role in delivering the best possible experience to our customers. You\u2019ll have the op",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "The North Face: Seasonal Sales Associate - Granville",
+      "company": "VF Corporation",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/land/ad/5962903722?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=B55E0ECEFDD18F141D99B43BDE7E31C11982437C",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "At The North Face we dare to lead the world forward through Exploration. We were born to Explore, Disrupt and to Lead. We were born to Love Wild Places and to Spark Curiosity. We believe that exploration is a mindset - both on the mountain and off the mountain - and it infuses everything we do. As a community of explorers, we stay curious about new ideas, places, and people. So, before we get to t",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "icebreaker: Seasonal Sales Associate - Calgary Touchlab",
+      "company": "VF Corporation",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/land/ad/5962903719?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=0903B98BB3F96DCCBFC66B22DD22E8C7846F37CC",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "Founded in 1995 in New Zealand, icebreaker is a pioneer of ethical and sustainable natural performance apparel. Now a part of the VF Corporation, icebreaker continues to challenge the status quo while championing natural, transparent, and responsible ways to do business. We're a community of passionate, authentic, and adventurous achievers! Today, we're a global brand with a diverse team across th",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Vans: Seasonal Sales Associate - Polo Park",
+      "company": "VF Corporation",
+      "location": "Winnipeg region, Manitoba",
+      "url": "https://www.adzuna.ca/land/ad/5962903738?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=1950386F925A9D708C3EEF5228C8D07D95DC42BC",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Vans est la marque originale ancr\u00e9e dans le style de vie authentique du skateboard. Notre mission est d'inspirer et de donner \u00e0 chacun le pouvoir de vivre \u00ab Off The Wall \u00bb, en adoptant un esprit jeune fond\u00e9 sur la libert\u00e9, la non-conformit\u00e9 et le progr\u00e8s continu. Ce qui \u00e9tait \u00ab Off The Wall \u00bb hier est devenu la norme aujourd'hui, et chez Vans, nous croyons qu'il faut sans cesse nous surpasser. Ave",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "The North Face: Seasonal Sales Associate - Montreal",
+      "company": "VF Corporation",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/land/ad/5962903725?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=4D740C6F9843E263BAF89E756A9ABFC002D83C21",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Chez The North Face, nous osons faire avancer le monde gr\u00e2ce \u00e0 l'exploration.Nous sommes n\u00e9s pour explorer, bousculer les normes et diriger. Nous sommes passionn\u00e9s par les grands espaces et anim\u00e9s par la curiosit\u00e9. Pour nous, l'exploration est un \u00e9tat d'esprit \u2014 autant en montagne qu'en dehors \u2014 et elle influence tout ce que nous faisons. En tant que communaut\u00e9 d'explorateurs, nous restons curieux",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "icebreaker: Seasonal Sales Associate - Touchlab Montr\u00e9al",
+      "company": "VF Corporation",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/land/ad/5962903726?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=10529EF026A5978051BAA1F4E070AA5C61A6871F",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Associ\u00e9 (e) aux ventes saisonnier ( \u00e8re ) Fond\u00e9e en 1995 en Nouvelle-Z\u00e9lande, icebreaker est une marque pionni\u00e8re dans les v\u00eatements de performance naturels, \u00e9thiques et durables. Aujourd'hui membre de VF Corporation , icebreaker continue de remettre en question le statu quo en favorisant des pratiques commerciales naturelles, transparentes et responsables. Nous sommes une communaut\u00e9 de personnes ",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "The North Face: Seasonal Sales Associate - West Edmonton",
+      "company": "VF Corporation",
+      "location": "Stony Plain, Edmonton region",
+      "url": "https://www.adzuna.ca/land/ad/5962903705?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=CA33B6D23DB54E7381EE36FE419313F49E441688",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "At The North Face we dare to lead the world forward through Exploration. We were born to Explore, Disrupt and to Lead. We were born to Love Wild Places and to Spark Curiosity. We believe that exploration is a mindset - both on the mountain and off the mountain - and it infuses everything we do. As a community of explorers, we stay curious about new ideas, places, and people. So, before we get to t",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "The North Face: Seasonal Sales Associate - West Edmonton",
+      "company": "VF Corporation",
+      "location": "Edmonton, Edmonton region",
+      "url": "https://www.adzuna.ca/land/ad/5962903723?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=F85FE9FE2F9B212810429FFD4082C51F8F7D9A27",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "At The North Face we dare to lead the world forward through Exploration. We were born to Explore, Disrupt and to Lead. We were born to Love Wild Places and to Spark Curiosity. We believe that exploration is a mindset - both on the mountain and off the mountain - and it infuses everything we do. As a community of explorers, we stay curious about new ideas, places, and people. So, before we get to t",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "icebreaker: Seasonal Sales Associate - Touchlab Park Royal",
+      "company": "VF Corporation",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/land/ad/5962903718?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=84AD57ED73F12ED309960E4D24200771A3E76F41",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "Founded in 1995 in New Zealand, icebreaker is a pioneer of ethical and sustainable natural performance apparel. Now a part of the VF Corporation, icebreaker continues to challenge the status quo while championing natural, transparent, and responsible ways to do business. We're a community of passionate, authentic, and adventurous achievers! Today, we're a global brand with a diverse team across th",
+      "matched_keywords": [
+        "sales associate",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Vans: Seasonal Sales Associate - St. Catherine St.",
+      "company": "VF Corporation",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/land/ad/5962903735?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=F8689863727AB0BE36E26CAC4726706D7C180446",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Vans est la marque originale ancr\u00e9e dans le style de vie authentique du skateboard. Notre mission est d'inspirer et de donner \u00e0 chacun le pouvoir de vivre \u00ab Off The Wall \u00bb, en adoptant un esprit jeune fond\u00e9 sur la libert\u00e9, la non-conformit\u00e9 et le progr\u00e8s continu. Ce qui \u00e9tait \u00ab Off The Wall \u00bb hier est devenu la norme aujourd'hui, et chez Vans, nous croyons qu'il faut sans cesse nous surpasser. Ave",
       "matched_keywords": [
         "sales associate",
         "AI",
@@ -391,103 +408,13 @@
       "title": "Administrative Assistant",
       "company": "Alumax Panel Inc.",
       "location": "Aurora, York region",
-      "url": "https://www.adzuna.ca/land/ad/5961712498?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=61C4F586161EF5CC6851BBB29C0F703D61930285",
+      "url": "https://www.adzuna.ca/details/5961712498?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
       "posted_date": "2026-11-11T09:03:29Z",
       "description": "Job Description Job Description About the Position: Alumax Panel Inc. is seeking a reliable, organized, and detail-oriented Administrative Assistant to support the day-to-day administrative operations of our company. The successful candidate will provide administrative support to management and staff, coordinate office procedures, maintain records, and assist with internal and external communicati",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "administrative"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Administrative Assistant",
-      "company": "Tim Hortons",
-      "location": "Kanata, Ottawa region",
-      "url": "https://www.adzuna.ca/land/ad/5945713948?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=6C8D786140FC17B2F62CFCBF85B90F91D693D687",
-      "source": "adzuna",
-      "salary": "$39,416\u2013$39,416",
-      "salary_min": 39416,
-      "job_type": "Part-time",
-      "posted_date": "2026-10-29T08:40:02Z",
-      "description": "Job Description Job Description JOB DESCRIPTION Job description Tim Hortons is recruiting a Part -time Week End Administrative Assistant . This is an excellent opportunity for an Administrative Assistant with a client-service mindset who enjoys multi-tasking in a busy work environment. As our Administrative Assistant, you will be responsible for: General office duties including maintaining files a",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "administrative"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Administrative Assistant",
-      "company": "Baptist Housing Seniors Living",
-      "location": "Maple Ridge, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5945690365?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=8B4E5D69EA1ABFD0B8548B9510EAFC7BB80B34C1",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Part-time",
-      "posted_date": "2026-10-29T08:34:44Z",
-      "description": "Job Description Job Description Administrative Assistant Maple Towers | Maple Ridge, British Columbia, Canada | Permanent Part-Time The Opportunity At Baptist Housing, every day is an opportunity for you to help seniors experience life well in supportive communities. As an Administrative Assistant at Maple Towers in Maple ridge, you will play a key role in supporting the daily operations of our se",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "administrative"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Administrative Assistant",
-      "company": "The Staffing Connection",
-      "location": "Peterborough, Peterborough region",
-      "url": "https://www.adzuna.ca/land/ad/5945714364?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=EF36770AE2FF5123AF9A3DAD8BF09ED730ACA52F",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-10-29T08:40:14Z",
-      "description": "Job Description Job Description * Full-time hours, day shift * Competitive hourly wage, paid weekly, and benefits available after 3 months * Entry-level opportunities available, along with opportunity for permanent hire and meaningful advancement within the company Are you a natural born organizer and multi-tasker, with strong computer skills, and an unparalleled attention to detail? If so, look n",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "administrative"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Administrative Assistant",
-      "company": "Alumax Panel Inc.",
-      "location": "Aurora, York region",
-      "url": "https://www.adzuna.ca/land/ad/5961712498?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=61C4F586161EF5CC6851BBB29C0F703D61930285",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T09:03:29Z",
-      "description": "Job Description Job Description About the Position: Alumax Panel Inc. is seeking a reliable, organized, and detail-oriented Administrative Assistant to support the day-to-day administrative operations of our company. The successful candidate will provide administrative support to management and staff, coordinate office procedures, maintain records, and assist with internal and external communicati",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "administrative"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Administrative Assistant",
-      "company": "S3 Group Ltd.",
-      "location": "Swift Current, Swift Current region",
-      "url": "https://www.adzuna.ca/land/ad/5952978367?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=9D9ACF00650DE57329F9E34CC11749BAEE92AF65",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-04T08:18:37Z",
-      "description": "Job Description Job Description About the Role We are looking for a reliable, organized, and detail-oriented Administrative Assistant to join our S3 Manufacturing team. This individual will provide administrative support across multiple departments, helping ensure daily tasks, documentation, and projects are completed accurately, efficiently, and on time. The successful candidate is a proactive te",
       "matched_keywords": [
         "administrative assistant",
         "AI",
@@ -499,7 +426,7 @@
       "title": "Administrative Assistant",
       "company": "The Atlas Hotel",
       "location": "Regina, Regina region",
-      "url": "https://www.adzuna.ca/land/ad/5945699755?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=CE967F88AB3A044A2335B4BEBF013E12CA098168",
+      "url": "https://www.adzuna.ca/details/5945699755?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
@@ -514,16 +441,16 @@
     },
     {
       "score": 56,
-      "title": "Administrative Assistant",
-      "company": "Ontario Native Women's Association",
-      "location": "Timmins, Cochrane region",
-      "url": "https://www.adzuna.ca/land/ad/5952996514?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=760088E85D1F6364493EE030A4E06BFEE0B7CCE5",
+      "title": "Administrative Assistant - PT",
+      "company": "Wood Automotive Group",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5945713170?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-04T08:36:04Z",
-      "description": "Job Description Job Description Why make ONWA your career choice? Make a difference in the lives of Indigenous peoples by supporting and advocating for positive change. ONWA prides itself on providing all employees with a total rewards package that is generous and supports our workforce and their family members: Competitive salaries Generous paid vacation time Paid time off at Christmas above paid",
+      "job_type": "Part-time",
+      "posted_date": "2026-10-29T08:39:42Z",
+      "description": "Job Description Job Description The Wood Automotive Group is looking for a Part-Time Administrative Assistant to join our Head Office team! We are seeking a detail-oriented and organized Part-Time Administrative Assistant to support the Executive Assistant as well as the Executive team with daily office operations. The ideal candidate is proactive, reliable, and able to manage multiple tasks effic",
       "matched_keywords": [
         "administrative assistant",
         "AI",
@@ -532,52 +459,142 @@
     },
     {
       "score": 56,
-      "title": "Administrative Assistant",
-      "company": "Harbour Construction Company Limited",
-      "location": "Dartmouth, Halifax region",
-      "url": "https://www.adzuna.ca/land/ad/5961717184?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=BDE8B00A195601A31A3F5C76F2796A5B3E04EC6C",
+      "title": "Administrative Assistant & Sales Support",
+      "company": "Kevin Carruthers - Desjardins Insurance Agent",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5945711306?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Full-time",
-      "posted_date": "2026-11-11T09:09:08Z",
-      "description": "Job Description Job Description Administrative Assistant Harbour Construction Company Limited | Dartmouth, NS Full-time, permanent | Salaried | Office-based Keeping the Office Moving . You take pride in keeping things organized, catching the details others miss, and finding more effective ways to get work done. You enjoy being someone your colleagues can count on\u2014and seeing how your work helps the",
+      "posted_date": "2026-10-29T08:39:11Z",
+      "description": "Job Description Job Description Administrative Assistant & Sales Support Location: Ottawa, ON Type: Full Time Position Overview: A successful Desjardins Agent is seeking a qualified professional to join their winning team. We seek an energetic an administrative and support oriented professional interested in helping our business grow through value-based conversations and remarkable customer experi",
       "matched_keywords": [
         "administrative assistant",
-        "AI",
+        "sales",
         "administrative"
       ]
     },
     {
       "score": 56,
-      "title": "Administrative Assistant",
-      "company": "Equation Staffing Solutions",
-      "location": "Chestermere, Calgary region",
-      "url": "https://www.adzuna.ca/land/ad/5952996478?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=DB0C351836843F4888F4947834DCEA91AF82FEB6",
-      "source": "adzuna",
-      "salary": "$39,520\u2013$47,840",
-      "salary_min": 39520,
-      "job_type": "Contract",
-      "posted_date": "2026-11-04T08:36:00Z",
-      "description": "Job Description Job Description Our client in Chestermere, AB. is seeking two temporary administrative assistants to provide front-desk and administrative support during a busy period at an established multidisciplinary healthcare clinic. The ideal candidates will have previous experience working in a healthcare, physiotherapy, chiropractic, rehabilitation, or multidisciplinary clinic setting and ",
-      "matched_keywords": [
-        "administrative assistant",
-        "AI",
-        "administrative"
-      ]
-    },
-    {
-      "score": 56,
-      "title": "Kobo Holiday Assisted Sales Brand Ambassador",
-      "company": "Premium Retail Services",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961937793?utm_medium=api&utm_source=faa80cd6",
+      "title": "Administrative Assistant - Job2026-ADM-012",
+      "company": "Back in Motion",
+      "location": "Surrey, Greater Vancouver",
+      "url": "https://www.adzuna.ca/details/5945698761?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:19:27Z",
-      "description": "Premium is looking for a dedicated Kobo Brand Ambassador to join us for the Holiday season Contract role : November 17 to January 3 Schedule : Thursday to Sunday, 26.5 hours per week You will drive sales by partnering with store management, engaging with customers, and being the driving force behind making the Kobo brand stand out. What's in it for you? Training provided by Premium Be a part of a ",
+      "job_type": "Not specified",
+      "posted_date": "2026-10-29T08:36:55Z",
+      "description": "Job Description Job Description We are looking for a casual Administrative Assistant to support services at our Nordel location. Location: Richmond Position: Administrative Assistant (Casual) Job  2026-ADM-012 Schedule : Availability to work any of these shifts: Monday, Tuesday, Wednesday - 3:45pm-8:45pm Flexible availability to help cover sick/vacation coverages at Nordel or other locations. Oppo",
+      "matched_keywords": [
+        "administrative assistant",
+        "AI",
+        "administrative"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Adjoint(e) administratif(ve) aux soumissions / Administrative Assistant - Quotations",
+      "company": "Fuze HR Solutions Inc.",
+      "location": "Montr\u00e9al, Qu\u00e9bec",
+      "url": "https://www.adzuna.ca/details/5953158040?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Full-time",
+      "posted_date": "2026-11-04T11:22:38Z",
+      "description": "Job Description Job Description Adjoint(e) administratif(ve) aux soumissions / Administrative Assistant \u2013 Quotations Montr\u00e9al (Saint-Laurent) | Permanent | 50 000 $ \u00e0 58 000 $ (English description will follow) Tu es une personne organis\u00e9e, rigoureuse et \u00e0 l'aise dans un environnement de travail dynamique ? Tu aimes jongler avec plusieurs dossiers, respecter les \u00e9ch\u00e9ances et travailler avec pr\u00e9cisi",
+      "matched_keywords": [
+        "administrative assistant",
+        "AI",
+        "administrative"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Customer Service Representative",
+      "company": "Shinhan Bank",
+      "location": "North York, Toronto",
+      "url": "https://www.adzuna.ca/details/5962892069?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:01:00Z",
+      "description": "The Customer Service Representative (CSR) helps advance our Bank\u2019s market position and financial growth, and establish Shinhan\u2019s presence in the community. The CSR is a strong relationship builder who is able to develop a rapport with new clients and provide support that will continually improve the relationship and advance our Bank\u2019s presence in the industry. Key Responsibilities & Accountabiliti",
+      "matched_keywords": [
+        "customer service representative",
+        "customer service",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Customer Service Representative",
+      "company": "DHL Supply Chain",
+      "location": "Milton, Halton",
+      "url": "https://www.adzuna.ca/details/5963067100?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Full-time",
+      "posted_date": "2026-11-12T07:42:39Z",
+      "description": "DHL Supply Chain is Hiring! At DHL, you will play a part in one of the world\u2019s most essential industries. There has never been a better time to join DHL Supply Chain. In a global business like ours, the opportunities are endless. So, join us. Work with us. Grow with us. The core responsibilities of this role include: Process customer orders, inquiries, and requests accurately and efficiently. Comm",
+      "matched_keywords": [
+        "customer service representative",
+        "AI",
+        "customer service"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Customer Service Representative",
+      "company": "Farm Boy Inc.",
+      "location": "Cornwall, Stormont, Dundas and Glengarry",
+      "url": "https://www.adzuna.ca/details/5962344971?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-11T20:08:44Z",
+      "description": "Job Description Be part of what makes us different. You\u2019ll help create the welcoming, fresh shopping experience Farm Boy is known for by delivering outstanding customer service and keeping our department looking its best. With an eye for detail and a passion for teamwork, you\u2019ll ensure products are displayed beautifully and customers feel supported every step of their visit. Here are some of the o",
+      "matched_keywords": [
+        "customer service representative",
+        "AI",
+        "customer service"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Customer Service Representative",
+      "company": "Farm Boy Inc.",
+      "location": "Kingston, Lennox and Addington",
+      "url": "https://www.adzuna.ca/details/5962344849?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-11T20:08:43Z",
+      "description": "Job Description Be part of what makes us different. You\u2019ll help create the welcoming, fresh shopping experience Farm Boy is known for by delivering outstanding customer service and keeping our department looking its best. With an eye for detail and a passion for teamwork, you\u2019ll ensure products are displayed beautifully and customers feel supported every step of their visit. Here are some of the o",
+      "matched_keywords": [
+        "customer service representative",
+        "AI",
+        "customer service"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Food Sampling Brand Ambassador",
+      "company": "Acosta",
+      "location": "East York, Toronto",
+      "url": "https://www.adzuna.ca/details/5948946944?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Part-time",
+      "posted_date": "2026-11-01T03:57:46Z",
+      "description": "Description Do you thrive in customer-facing environments and enjoy building connections with others? Join our team as a Brand Ambassador and create memorable consumer experiences by showcasing and sampling products from some of today\u2019s leading brands! At Mosaic, we help some of North America\u2019s most recognized brands connect with consumers through engaging, memorable experiences. With more than 30",
       "matched_keywords": [
         "brand ambassador",
         "AI",
@@ -589,12 +606,12 @@
       "title": "Food Sampling Brand Ambassador",
       "company": "Acosta",
       "location": "East York, Toronto",
-      "url": "https://www.adzuna.ca/details/5952809691?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/details/5962879927?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Part-time",
-      "posted_date": "2026-11-04T03:42:54Z",
+      "posted_date": "2026-11-12T04:48:32Z",
       "description": "Description Do you thrive in customer-facing environments and enjoy building connections with others? Join our team as a Brand Ambassador and create memorable consumer experiences by showcasing and sampling products from some of today\u2019s leading brands! At Mosaic, we help some of North America\u2019s most recognized brands connect with consumers through engaging, memorable experiences. With more than 30",
       "matched_keywords": [
         "brand ambassador",
@@ -604,16 +621,70 @@
     },
     {
       "score": 56,
-      "title": "Brand Ambassadors",
-      "company": "The RPM Groups",
-      "location": "Ottawa, Ottawa region",
-      "url": "https://www.adzuna.ca/details/5955739666?utm_medium=api&utm_source=faa80cd6",
+      "title": "Food Sampling Brand Ambassador",
+      "company": "Acosta",
+      "location": "East York, Toronto",
+      "url": "https://www.adzuna.ca/details/5961454809?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Part-time",
+      "posted_date": "2026-11-11T04:47:21Z",
+      "description": "Description Do you thrive in customer-facing environments and enjoy building connections with others? Join our team as a Brand Ambassador and create memorable consumer experiences by showcasing and sampling products from some of today\u2019s leading brands! At Mosaic, we help some of North America\u2019s most recognized brands connect with consumers through engaging, memorable experiences. With more than 30",
+      "matched_keywords": [
+        "brand ambassador",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Food Sampling Brand Ambassador",
+      "company": "Acosta Group",
+      "location": "Aurora, York region",
+      "url": "https://www.adzuna.ca/details/5953985057?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-06T08:18:05Z",
-      "description": "Job Description Job Description RPM @ Home is a growing Canadian home services company with 8 offices nationwide. We specialize in attic insulation and attic mold treatment, helping homeowners improve the comfort, safety and energy efficiency of their homes. We\u2019re looking for friendly, motivated individuals to join our residential sales team. No previous experience is required- we\u2019ll provide the t",
+      "posted_date": "2026-11-05T03:03:50Z",
+      "description": "DESCRIPTION Do you thrive in customer-facing environments and enjoy building connections with others? Join our team as a Brand Ambassador and create memorable consumer experiences by showcasing and sampling products from some of today's leading brands! _At Mosaic, we help some of North America's most recognized brands connect with consumers through engaging, memorable experiences. With more than 3",
+      "matched_keywords": [
+        "brand ambassador",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Norton Holiday Assisted Sales Brand Ambassador",
+      "company": "Acosta",
+      "location": "East York, Toronto",
+      "url": "https://www.adzuna.ca/details/5947822348?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Contract",
+      "posted_date": "2026-10-31T05:12:32Z",
+      "description": "Description Premium is looking for a dedicated Norton Brand Ambassador to join us for the Holiday season Contract role : November 20th - December 27th Training: November 17 Schedule : Friday to Sunday You will drive sales by partnering with store management, engaging with customers, and being the driving force behind making the Norton brand stand out. What\u2019s in it for you? Training provided by Pre",
+      "matched_keywords": [
+        "brand ambassador",
+        "AI",
+        "sales"
+      ]
+    },
+    {
+      "score": 56,
+      "title": "Costco Roadshow Brand Ambassador",
+      "company": "Acosta",
+      "location": "Oliver, Edmonton",
+      "url": "https://www.adzuna.ca/details/5955456348?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$208,000\u2013$208,000",
+      "salary_min": 208000,
+      "job_type": "Contract",
+      "posted_date": "2026-11-06T04:01:20Z",
+      "description": "Description Premium is looking for a dedicated Costco Roadshow Brand Ambassador to join our team ! Contract role: 13 days show Schedule : 37.5h You will drive sales by partnering with store team members, engaging with customers, and being the driving force behind making the brand stand out. Responsibilities Elevate and engage to maximize sales potential! What's in it for you: \u2022 Gain high-visibilit",
       "matched_keywords": [
         "brand ambassador",
         "AI",
@@ -622,33 +693,16 @@
     },
     {
       "score": 53,
-      "title": "Senior Manager, IT Support",
-      "company": "Swoon",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961955673?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-11T12:23:32Z",
-      "description": "Overview Hybrid (4 days/week in office) What You\u2019ll Do Lead & Oversee Platform Operations \u2013 Ensure Oracle AML batches run smoothly, SLAs are met, and issues are quickly resolved. Optimize & Automate \u2013 Drive automation of manual tasks, improve processes, and re-engineer Oracle batches in partnership with engineering teams. Incident Management \u2013 Manage bridges during system incidents, coordinate res",
-      "matched_keywords": [
-        "IT support",
-        "STEM"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Sales Associate",
-      "company": "Structube",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5960634662?utm_medium=api&utm_source=faa80cd6",
+      "title": "Vans: Seasonal Sales Associate - Mapleview",
+      "company": "VF Corporation",
+      "location": "Burlington, Halton",
+      "url": "https://www.adzuna.ca/land/ad/5962903679?se=8JltF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=792294EFEC07E0A9567ECC3A765D50D6DFE569CB",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-10T14:09:48Z",
-      "description": "Job Description What your day to day will look like: Advise customers by promoting our furniture and accessories; Ensure after-sales follow-up in order to track deliveries and answer customer questions; Participate in inventory management and reception of goods; Ensure that furniture and accessories are highlighted and that the store is clean; Perform other related duties.",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
       "matched_keywords": [
         "sales associate",
         "sales"
@@ -656,16 +710,16 @@
     },
     {
       "score": 53,
-      "title": "Sales Associate",
-      "company": "Structube",
-      "location": "Richmond Hill, York region",
-      "url": "https://www.adzuna.ca/details/5960319154?utm_medium=api&utm_source=faa80cd6",
+      "title": "Vans: Seasonal Sales Associate - Richmond",
+      "company": "VF Corporation",
+      "location": "Richmond, Greater Vancouver",
+      "url": "https://www.adzuna.ca/land/ad/5962903743?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=322B1846A3E2C0B2882FF7DCF9253AF45D9FF457",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-10T08:08:46Z",
-      "description": "Job Description What your day to day will look like: Advise customers by promoting our furniture and accessories; Ensure after-sales follow-up in order to track deliveries and answer customer questions; Participate in inventory management and reception of goods; Ensure that furniture and accessories are highlighted and that the store is clean; Perform other related duties.",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
       "matched_keywords": [
         "sales associate",
         "sales"
@@ -676,12 +730,80 @@
       "title": "Vans: Seasonal Sales Associate - Mapleview",
       "company": "VF Corporation",
       "location": "Burlington, Halton",
-      "url": "https://www.adzuna.ca/land/ad/5961421274?se=pGWESALe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=7F7BCEF69CE4041564B87792D9B38CD9468662BF",
+      "url": "https://www.adzuna.ca/land/ad/5962903679?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=792294EFEC07E0A9567ECC3A765D50D6DFE569CB",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-11T04:13:09Z",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
+      "matched_keywords": [
+        "sales associate",
+        "sales"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Vans: Seasonal Sales Associate - Metropolis At Metrotown",
+      "company": "VF Corporation",
+      "location": "Burnaby, Greater Vancouver",
+      "url": "https://www.adzuna.ca/land/ad/5962903687?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=E14468209DA9C7487970D282FE95F7C3FE6FEC65",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:06Z",
+      "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
+      "matched_keywords": [
+        "sales associate",
+        "sales"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Vans: Seasonal Sales Associate - Halifax Shopping Centre",
+      "company": "VF Corporation",
+      "location": "Halifax region, Nova Scotia",
+      "url": "https://www.adzuna.ca/land/ad/5962903737?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=29785C968BD8613482CDF0A585C1104DA27AE564",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
+      "matched_keywords": [
+        "sales associate",
+        "sales"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Vans: Seasonal Sales Associate - Guildford Town Centre",
+      "company": "VF Corporation",
+      "location": "Surrey, Greater Vancouver",
+      "url": "https://www.adzuna.ca/land/ad/5962903732?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=A373298DB079C3552CDB63D54C65F693A30B9801",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
+      "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
+      "matched_keywords": [
+        "sales associate",
+        "sales"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Vans: Seasonal Sales Associate - South Edmonton Commons",
+      "company": "VF Corporation",
+      "location": "Edmonton, Edmonton region",
+      "url": "https://www.adzuna.ca/land/ad/5962903731?se=3hHVF87e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=6DB9E3DCEFC0CED5D999FD7E304287EF75C70B05",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-12T05:14:07Z",
       "description": "Vans is the original brand rooted in the authentic lifestyle of skateboarding. We are driven by our mission to inspire and empower everyone to live \u201cOff The Wall\u201d \u2013 embracing the youthful spirit of freedom, non-conformity, and relentless progression. Yesterday's \u201cOff The Wall\u201d moment is today's new normal, and at Vans, we believe in constantly outdoing ourselves. Together with our communities acro",
       "matched_keywords": [
         "sales associate",
@@ -691,100 +813,15 @@
     {
       "score": 53,
       "title": "Administrative Assistant",
-      "company": "Artech LLC",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5948023711?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=254FC9FC037873ADC6842A1161C6CBA3DDC553AA",
+      "company": "My Insurance Broker",
+      "location": "Thornhill, York region",
+      "url": "https://www.adzuna.ca/details/5962898087?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-10-31T08:17:38Z",
-      "description": "Job Description Job Description Title: Administrative Assistant Location: FCP Toronto \u2013 100 King St West, Toronto (ON) M5X 1H3 Hybrid work setup: Mon-Thur Office / Fri - WFH. Salary Range: Open Market Rates Duration: 6 Months Introduction Join our dynamic team within the Investment & Corporate Banking line of business as we seek a proactive and skilled professional for a six-month assignment with ",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Office Administrative Assistant",
-      "company": "Career Market",
-      "location": "Markham, York region",
-      "url": "https://www.adzuna.ca/land/ad/5944507974?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=A012B50BFCEC147E9C01041B49CA507A1F60A9AC",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-10-28T08:03:20Z",
-      "description": "Job Description Job Description Company Description Light your tomorrow with your Career Choice today. Career Market / Career Choice is a recruitment partner that goes the extra mile to find the perfect candidate for your company. Our professional team specializes in recruiting professionals in various industries such as Accounting, IT, Real Estate, Financial Services, Healthcare, and more. We wor",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Real Estate Administrative Assistant",
-      "company": "The Avenue Realty Team",
-      "location": "Richmond Hill, York region",
-      "url": "https://www.adzuna.ca/land/ad/5961716679?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=C7659FFEA1068A7719CA4E0B2096A67ABBC7406D",
-      "source": "adzuna",
-      "salary": "$55,000\u2013$55,000",
-      "salary_min": 55000,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T09:08:14Z",
-      "description": "Job Description Job Description We\u2019re looking for a driven and dedicated real estate administrative assistant to join our growing team. Your job will be to complete and file the appropriate paperwork for transactions, oversee important deadlines and notify clients when necessary, adhere to legal and tax withholding requirements, and coordinate schedules for final walkthroughs and other appointment",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Real Estate Administrative Assistant/Receptionist",
-      "company": "HomeLife Realty Services",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5944497284?se=BKvTSQLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=9082E5080F05A46862EB5BD1247FA575F10951F6",
-      "source": "adzuna",
-      "salary": "$37,440\u2013$41,600",
-      "salary_min": 37440,
-      "job_type": "Full-time",
-      "posted_date": "2026-10-28T07:55:28Z",
-      "description": "Job Description Job Description We are seeking a professional and experienced Real Estate Brokerage Receptionist / Administrator to support the day-to-day operations of our brokerage. This role requires a candidate with previous real estate brokerage experience in Ontario who is comfortable drafting Agreements using SkySlope and broker loading listings on TRREB MLS. In addition to transaction admi",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Artech LLC",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5948023711?se=Pq8gSwLe8RG2gvl2oUmJsg&utm_medium=api&utm_source=faa80cd6&v=254FC9FC037873ADC6842A1161C6CBA3DDC553AA",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-10-31T08:17:38Z",
-      "description": "Job Description Job Description Title: Administrative Assistant Location: FCP Toronto \u2013 100 King St West, Toronto (ON) M5X 1H3 Hybrid work setup: Mon-Thur Office / Fri - WFH. Salary Range: Open Market Rates Duration: 6 Months Introduction Join our dynamic team within the Investment & Corporate Banking line of business as we seek a proactive and skilled professional for a six-month assignment with ",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Advancement Administrative Assistant",
-      "company": "The Christian Reformed Church in North America",
-      "location": "Burlington, Halton",
-      "url": "https://www.adzuna.ca/land/ad/5953093557?se=Pq8gSwLe8RG2gvl2oUmJsg&utm_medium=api&utm_source=faa80cd6&v=38B5FFC29255B8F4C67E964888D42F4E1338D608",
-      "source": "adzuna",
-      "salary": "$55,827\u2013$55,827",
-      "salary_min": 55827,
+      "salary": "$41,600\u2013$52,000",
+      "salary_min": 41600,
       "job_type": "Part-time",
-      "posted_date": "2026-11-04T10:25:50Z",
-      "description": "Job Description Job Description Description PURPOSE The Advancement Administrative Assistant will provide general administrative support to the ReFrame Ministries advancement team. This position involves communication, handling financial documents, and organizing files to support donor relations and the organization\u2019s mission. This position is part-time at 18 hours a week and offers a hybrid and f",
+      "posted_date": "2026-11-12T05:07:14Z",
+      "description": "Job Title: Administrative Assistant Location: 505 Hwy 7 311, Thornhill, ON L3T 7T1 Employment Type: Part-time / Hourly / In Office Salary: $20.00 - $25.00 per hour Reason for Vacancy: New position Who we are: Established in 2008, My Insurance Broker is a proud family-owned and Canadian-operated brokerage. As one of Ontario's fastest-growing online brokerages, we have forged strong partnerships wit",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -792,33 +829,16 @@
     },
     {
       "score": 53,
-      "title": "Real Estate Administrative Assistant/Receptionist",
-      "company": "HomeLife Realty Services",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5944497284?se=Pq8gSwLe8RG2gvl2oUmJsg&utm_medium=api&utm_source=faa80cd6&v=9082E5080F05A46862EB5BD1247FA575F10951F6",
-      "source": "adzuna",
-      "salary": "$37,440\u2013$41,600",
-      "salary_min": 37440,
-      "job_type": "Full-time",
-      "posted_date": "2026-10-28T07:55:28Z",
-      "description": "Job Description Job Description We are seeking a professional and experienced Real Estate Brokerage Receptionist / Administrator to support the day-to-day operations of our brokerage. This role requires a candidate with previous real estate brokerage experience in Ontario who is comfortable drafting Agreements using SkySlope and broker loading listings on TRREB MLS. In addition to transaction admi",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Careers in Ag - Agricultural Manufacturers of Canada",
-      "location": "Swift Current, Swift Current region",
-      "url": "https://www.adzuna.ca/land/ad/5950545429?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=F4916F2B28F7C4EB7D4999F917740E7B8CD4E5DC",
+      "title": "Legal Administrative Assistant",
+      "company": "McCarthy T\u00e9trault LLP",
+      "location": "Toronto Dominion Centre, City of Toronto",
+      "url": "https://www.adzuna.ca/details/5958782841?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Full-time",
-      "posted_date": "2026-11-02T07:25:51Z",
-      "description": "Job Description Job Description Administrative Assistant S3 Group Ltd. is currently recruiting for an Administrative Assistant to join the team at our offices in Swift Current, SK . This is a full-time position starting immediately. Since 1966, our company has been designing and building specialized equipment, products, and custom components for end-users and other manufacturers around the world. ",
+      "posted_date": "2026-11-09T01:02:23Z",
+      "description": "McCarthy T\u00e9trault is a leading Canadian law firm offering a full suite of legal and business solutions to clients in Canada and around the world. With offices in Toronto, Montr\u00e9al, Qu\u00e9bec City, Calgary and Vancouver, we provide challenging and rewarding career opportunities across the country. Recognized as one of Canada\u2019s Top 100 Employers for eleven consecutive years and one of Canada\u2019s Best Div",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -826,16 +846,50 @@
     },
     {
       "score": 53,
-      "title": "Administrative Assistant",
-      "company": "STRIVE Recruitment",
+      "title": "Administrative Assistant (Casual)",
+      "company": "FIREFLY",
+      "location": "Sioux Lookout, Kenora region",
+      "url": "https://www.adzuna.ca/details/5945734148?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$54,412\u2013$54,412",
+      "salary_min": 54412,
+      "job_type": "Not specified",
+      "posted_date": "2026-10-29T08:48:50Z",
+      "description": "Job Description Job Description Are you highly organized and enjoy supporting teams to do their best work? Looking for some casual work? FIREFLY is seeking a casual Administrative Assistant to provide administrative support and reception in our Sioux Lookout location. This role is essential in keeping programs running smoothly and ensuring clients and staff receive timely, responsive support. Abou",
+      "matched_keywords": [
+        "administrative assistant",
+        "administrative"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Administrative Assistant (Casual)",
+      "company": "FIREFLY",
+      "location": "Red Rock, Lake Superior",
+      "url": "https://www.adzuna.ca/details/5953144531?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$54,412\u2013$54,412",
+      "salary_min": 54412,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-04T11:13:51Z",
+      "description": "Job Description Job Description Are you highly organized and enjoy supporting teams to do their best work? Looking for some casual work? FIREFLY is seeking a casual Administrative Assistant to provide administrative support and reception in our Red Lake location. This role is essential in keeping programs running smoothly and ensuring clients and staff receive timely, responsive support. About FIR",
+      "matched_keywords": [
+        "administrative assistant",
+        "administrative"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Administrative Assistant, Registration",
+      "company": "Engineers and Geoscientists BC",
       "location": "Burnaby, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5945717642?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=6D37555D63B53E1B4DD0F8F28B282D7FE28AA1F9",
+      "url": "https://www.adzuna.ca/details/5945676543?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": "$45,000\u2013$60,000",
-      "salary_min": 45000,
+      "salary": null,
+      "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-10-29T08:41:28Z",
-      "description": "Job Description Job Description Administrative Assistant Burnaby, BC (On-Site) $45,000 - $60,000 ABOUT US STRIVE is a Vancouver-based recruitment firm offering recruitment solutions in the specialist areas of Accounting Finance, Construction, Corporate Administration, Operations, and Technology. Our proactive recruitment approach allows us to uncover high-caliber professionals for niche, specializ",
+      "posted_date": "2026-10-29T08:32:23Z",
+      "description": "Job Description Job Description Engineers and Geoscientists British Columbia is currently searching for an Administrative Assistant, Registration to join our team in Burnaby! The Administrative Assistant, Registration (\u201cAAR\u201d) is responsible for providing administrative support to the senior management team of the Registration department. The AAR primarily provides administrative support for multip",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -843,16 +897,16 @@
     },
     {
       "score": 53,
-      "title": "Administrative Assistant",
-      "company": "S3 Group Ltd.",
-      "location": "Swift Current, Swift Current region",
-      "url": "https://www.adzuna.ca/land/ad/5948022669?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=7A148131EB4E65019180E554515C74D29CFD2AA5",
+      "title": "Co-Op Administrative Assistant",
+      "company": "Baker Tilly Victoria Ltd.",
+      "location": "Victoria, Capital",
+      "url": "https://www.adzuna.ca/details/5951667770?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
+      "salary": "$48,006\u2013$48,006",
+      "salary_min": 48006,
       "job_type": "Full-time",
-      "posted_date": "2026-10-31T08:17:09Z",
-      "description": "Job Description Job Description S3 Group Ltd. is currently recruiting for an Administrative Assistant to join the team at our offices in Swift Current, SK . This is a full-time position starting immediately. Since 1966, our company has been designing and building specialized equipment, products, and custom components for end-users and other manufacturers around the world. S3 fosters a respectful, ",
+      "posted_date": "2026-11-03T07:22:38Z",
+      "description": "Job Description Job Description Be part of something bigger. Build with us today \u2014 Now, for tomorrow. At Baker Tilly, we care about the impact you make. That\u2019s why we\u2019re invested in your growth from day one\u2014because the steps you take today define your tomorrow. We are looking for a Co-Op Administrative Assistant to join our team\u2014a role where your expertise will drive meaningful outcomes and your a",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -860,50 +914,16 @@
     },
     {
       "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Forsite Consultants Ltd",
-      "location": "Salmon Arm, Columbia-Shuswap",
-      "url": "https://www.adzuna.ca/land/ad/5957098301?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=466A1AF6E39D5DC3C721B6A8DF8ED84588E162D7",
-      "source": "adzuna",
-      "salary": "$45,760\u2013$54,080",
-      "salary_min": 45760,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-07T09:20:19Z",
-      "description": "Job Description Job Description Job Opportunity: Administrative Assistant Employee type: Casual Location: Salmon Arm, BC (on-site) Compensation: $22 to $26 hourly Come Grow with Us! Forsite is actively looking for an Administrative Assistant to join our business operations team. At Forsite, we don\u2019t just work together \u2013 we support, challenge, and grow together. We believe in flexibility, collabora",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Brandt Industries Canada Ltd",
-      "location": "Saskatoon, Saskatchewan",
-      "url": "https://www.adzuna.ca/land/ad/5954317824?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=E22E481090DCE85FA5129F7B9F454615A78D9202",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-05T08:48:16Z",
-      "description": "Job Description Job Description Brandt Corporate Services Ltd is currently seeking an Administrative Assistant for our Saskatoon, SK location. The Administrative Assistant provides essential administrative and clerical support to ensure the efficient operation of the branch. This role is responsible for performing a variety of office tasks including reception, financial processing, safety coordina",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Brandt Corporate Services Ltd",
-      "location": "Regina, Regina region",
-      "url": "https://www.adzuna.ca/land/ad/5953111962?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=AA1E0E4DC944C4A807DC2AAD6FAB9AA5B9A5E30E",
+      "title": "Administrative Assistant - Calgary, AB (Onsite)",
+      "company": "Amicis Global",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5954256419?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Contract",
-      "posted_date": "2026-11-04T10:43:01Z",
-      "description": "Job Description Job Description Brandt Corporate Services Ltd. is currently seeking an Administrative Assistant for our Regina, SK, head office location as part of our Executive Services team. Under the supervision of the Director of Executive Services. Provides administrative, operational and clerical support to all Brandt Tractor branches and various departments. Arranges, manages and coordinate",
+      "posted_date": "2026-11-05T08:04:56Z",
+      "description": "Job Description Job Description Title: Administrative Assistant Location: Calgary, AB Onsite Duration: 6 Months  Extension Position Overvie: Commission is seeking a temporary Appeals Assistant (AA) to provide administrative, operational, and front-line support throughout the appeals hearing process. The Appeals Commission is an administrative tribunal established under the Workers' Compensation Ac",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -911,16 +931,16 @@
     },
     {
       "score": 53,
-      "title": "Administrative Assistant",
-      "company": "CMHA - Concord",
-      "location": "Ontario, Canada",
-      "url": "https://www.adzuna.ca/land/ad/5961707385?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=3668A6734D0A980F2DC9C7759186A7C9FAD2EC90",
+      "title": "Administrative Assistant - Intermediate (ONSITE) JP1040",
+      "company": "P@thlion Staffing Careers",
+      "location": "Edmonton, Edmonton region",
+      "url": "https://www.adzuna.ca/details/5949209978?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Part-time",
-      "posted_date": "2026-11-11T08:59:12Z",
-      "description": "Job Description Job Description Why work for CMHA York Region? We deliver quality mental health and addictions services that promote recovery and health, and end stigma. Our Values: Responsive to the needs of our clients, their families, and our communities Respectful in how we meet the needs of our clients and staff in each interaction Committed to delivering the highest quality of care, every ti",
+      "job_type": "Not specified",
+      "posted_date": "2026-11-01T07:14:03Z",
+      "description": "Job Description Job Description The Appeals Commission (the \"Commission\") is an administrative tribunal established under the Workers' Compensation Act as the final level of appeal for worker's compensation matters in the province of Alberta. The Appeals Commission consists of four diverse divisions including a tribunal made up of adjudicators and staff; an advocate office that operates as an inde",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -928,33 +948,16 @@
     },
     {
       "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Artech LLC",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5948023711?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=254FC9FC037873ADC6842A1161C6CBA3DDC553AA",
+      "title": "Administrative Assistant - 12 Month Term",
+      "company": "O'Regan's Automotive Group",
+      "location": "Dartmouth, Halifax region",
+      "url": "https://www.adzuna.ca/details/5954404111?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-10-31T08:17:38Z",
-      "description": "Job Description Job Description Title: Administrative Assistant Location: FCP Toronto \u2013 100 King St West, Toronto (ON) M5X 1H3 Hybrid work setup: Mon-Thur Office / Fri - WFH. Salary Range: Open Market Rates Duration: 6 Months Introduction Join our dynamic team within the Investment & Corporate Banking line of business as we seek a proactive and skilled professional for a six-month assignment with ",
-      "matched_keywords": [
-        "administrative assistant",
-        "administrative"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Administrative Assistant",
-      "company": "Innu Round Table Secretariat",
-      "location": "Natuashish, Labrador City region",
-      "url": "https://www.adzuna.ca/land/ad/5953159353?se=ZuxBTALe8RGlaIs0KfvNyQ&utm_medium=api&utm_source=faa80cd6&v=48A85E210E2E794ECA9E0A267D6CC04482B5AB99",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Full-time",
-      "posted_date": "2026-11-04T11:24:24Z",
-      "description": "Job Description Job Description Position: Administrative Assistant \u2013 Full-Time, Permanent Location: Natuashish, NL About the IRTS The Innu Round Table Secretariat is the implementation arm of the Round Table. It is the collective organization of the Mushuau Innu First Nation (MIFN), the Sheshatshiu Innu First Nation (SIFN), and the Innu Nation. The Secretariat was established to coordinate the adm",
+      "job_type": "Not specified",
+      "posted_date": "2026-11-05T10:22:21Z",
+      "description": "Job Description Job Description Join Our Team at O\u2019Regan\u2019s Automotive Group! Are you an organized, enthusiastic, and people-focused professional ready to make an impact? O\u2019Regan\u2019s Automotive Group \u2014 one of Canada\u2019s 50 Best Managed Companies \u2014 is looking for a dedicated individual to join our dynamic Human Resources team . At O\u2019Regan\u2019s, our people are the driving force behind everything we do. We a",
       "matched_keywords": [
         "administrative assistant",
         "administrative"
@@ -963,9 +966,26 @@
     {
       "score": 53,
       "title": "Customer Service Representative",
+      "company": "U-Haul",
+      "location": "Newmarket, York region",
+      "url": "https://www.adzuna.ca/details/5961472038?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$36,608\u2013$38,688",
+      "salary_min": 36608,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-11T04:58:04Z",
+      "description": "Canada This position is not eligible for employer sponsorship. Applicants must be legally authorized to work and must not require employer sponsorship. Compensation Range: $17.60 to $18.60 Hourly Location: 225 Harry Walker Pkwy S, Newmarket, Ontario L3Y8T3 Canada Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivated people for the position of Customer Serv",
+      "matched_keywords": [
+        "customer service representative",
+        "customer service"
+      ]
+    },
+    {
+      "score": 53,
+      "title": "Customer Service Representative",
       "company": "Speedy Cash",
       "location": "Prince George, Fraser-Fort George",
-      "url": "https://www.adzuna.ca/land/ad/5950878700?se=gjWGUgLe8RG-3tonMCyHnw&utm_medium=api&utm_source=faa80cd6&v=098A0E38BC6A9584F79F5BF6A953A4E41A1CDFC1",
+      "url": "https://www.adzuna.ca/land/ad/5950878700?se=3p8vG87e8RGgDrQN4m_CPg&utm_medium=api&utm_source=faa80cd6&v=098A0E38BC6A9584F79F5BF6A953A4E41A1CDFC1",
       "source": "adzuna",
       "salary": "$37,960\u2013$41,080",
       "salary_min": 37960,
@@ -979,19 +999,19 @@
     },
     {
       "score": 53,
-      "title": "Brand Ambassadors",
-      "company": "The RPM Groups",
-      "location": "North York, Toronto",
-      "url": "https://www.adzuna.ca/details/5955737917?utm_medium=api&utm_source=faa80cd6",
+      "title": "Customer Service Representative",
+      "company": "U-Haul",
+      "location": "Victoria, Capital",
+      "url": "https://www.adzuna.ca/details/5961484860?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-06T08:17:20Z",
-      "description": "Job Description Job Description We\u2019re Hiring: Lead Gen Sales Representative Help homeowners save energy and reduce costs! We specialize in high-quality attic insulation solutions that make homes more comfortable and energy efficient. We\u2019re looking for motivated Sales Representatives to join our team and connect homeowners with the benefits of proper insulation. What You\u2019ll Do: \u2022 Generate leads and",
+      "salary": "$37,960\u2013$39,520",
+      "salary_min": 37960,
+      "job_type": "Part-time",
+      "posted_date": "2026-11-11T05:10:52Z",
+      "description": "Canada This position is not eligible for employer sponsorship. Applicants must be legally authorized to work and must not require employer sponsorship. Compensation Range: $18.25 to $19.00 Hourly Location: 644 Queens Ave, Victoria, British Columbia V8T1M1 Canada Customer Service Representative (Seasonal) Are you a people person? Do you love helping others? U-Haul is in search of friendly, motivate",
       "matched_keywords": [
-        "brand ambassador",
-        "sales"
+        "customer service representative",
+        "customer service"
       ]
     },
     {
@@ -999,7 +1019,7 @@
       "title": "Brand Ambassador - Vancouver",
       "company": "Essential HR",
       "location": "Vancouver, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5949207917?se=KPaRWALe8RGYFNuPuswjLA&utm_medium=api&utm_source=faa80cd6&v=39494CEC66FDEF65F400E742931E7F2EA77A0101",
+      "url": "https://www.adzuna.ca/land/ad/5949207917?se=on3hHM7e8RG0NsbUZx0nZA&utm_medium=api&utm_source=faa80cd6&v=39494CEC66FDEF65F400E742931E7F2EA77A0101",
       "source": "adzuna",
       "salary": "$41,600\u2013$62,400",
       "salary_min": 41600,
@@ -1015,47 +1035,13 @@
       "score": 53,
       "title": "Brand Ambassadors",
       "company": "The RPM Groups",
-      "location": "Edmonton, Edmonton region",
-      "url": "https://www.adzuna.ca/details/5955743655?utm_medium=api&utm_source=faa80cd6",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5955727247?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-06T08:18:58Z",
-      "description": "Job Description Job Description We\u2019re Hiring: Lead Gen Sales Representative Help homeowners save energy and reduce costs! We specialize in high-quality attic insulation solutions that make homes more comfortable and energy efficient. We\u2019re looking for motivated Sales Representatives to join our team and connect homeowners with the benefits of proper insulation. What You\u2019ll Do: \u2022 Generate leads and",
-      "matched_keywords": [
-        "brand ambassador",
-        "sales"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Brand Ambassadors",
-      "company": "The RPM Groups",
-      "location": "Cambridge, Waterloo region",
-      "url": "https://www.adzuna.ca/details/5955737301?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-06T08:17:02Z",
-      "description": "Job Description Job Description We\u2019re Hiring: Lead Gen Sales Representative Help homeowners save energy and reduce costs! We specialize in high-quality attic insulation solutions that make homes more comfortable and energy efficient. We\u2019re looking for motivated Sales Representatives to join our team and connect homeowners with the benefits of proper insulation. What You\u2019ll Do: \u2022 Generate leads and",
-      "matched_keywords": [
-        "brand ambassador",
-        "sales"
-      ]
-    },
-    {
-      "score": 53,
-      "title": "Brand Ambassadors",
-      "company": "The RPM Groups",
-      "location": "London, Middlesex",
-      "url": "https://www.adzuna.ca/details/5955739509?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-06T08:18:01Z",
+      "posted_date": "2026-11-06T08:14:14Z",
       "description": "Job Description Job Description We\u2019re Hiring: Lead Gen Sales Representative Help homeowners save energy and reduce costs! We specialize in high-quality attic insulation solutions that make homes more comfortable and energy efficient. We\u2019re looking for motivated Sales Representatives to join our team and connect homeowners with the benefits of proper insulation. What You\u2019ll Do: \u2022 Generate leads and",
       "matched_keywords": [
         "brand ambassador",
@@ -1064,10 +1050,42 @@
     },
     {
       "score": 50,
+      "title": "Bilingual Technical Support Specialist",
+      "company": "TP-Link",
+      "location": "Richmond Hill, York region",
+      "url": "https://www.adzuna.ca/details/5961715054?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Full-time",
+      "posted_date": "2026-11-11T09:06:24Z",
+      "description": "Job Description Job Description Job Title: Technical Support Specialist (Bilingual) Location: Richmond Hill, Ontario Employment Type: Full-Time, Permanent Job Description: We are looking for a highly motivated Bilingual Technical Support Specialist to join our talented team. The Bilingual Technical Support Specialist is responsible to provide technical support and service for both internal employe",
+      "matched_keywords": [
+        "technical support"
+      ]
+    },
+    {
+      "score": 50,
+      "title": "Technical Support Specialist - 1 year contract",
+      "company": "Think Research",
+      "location": "Design Exchange, City of Toronto",
+      "url": "https://www.adzuna.ca/details/5962876889?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$53,000\u2013$58,000",
+      "salary_min": 53000,
+      "job_type": "Contract",
+      "posted_date": "2026-11-12T04:46:24Z",
+      "description": "The Company At Think Research, we use evidence-based digital health technology to make it easier for clinicians to deliver better care. Our solutions support clinical decision-making and improve patient outcomes across healthcare settings. If you\u2019re passionate about improving patient care through technology, we\u2019d love to hear from you. Why Us? It's not every day that you have the chance to change ",
+      "matched_keywords": [
+        "technical support"
+      ]
+    },
+    {
+      "score": 50,
       "title": "VRF & Ductless Technical Support Representative",
       "company": "Refrigerative Supply Limited",
       "location": "Vancouver, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5954413414?se=tpKzNALe8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=faa80cd6&v=23EE7C8ACA366C25A8252846A17327306FC80A92",
+      "url": "https://www.adzuna.ca/land/ad/5954413414?se=2PtvEc7e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=23EE7C8ACA366C25A8252846A17327306FC80A92",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
@@ -1082,8 +1100,24 @@
       "score": 50,
       "title": "VRF & Ductless Technical Support Representative",
       "company": "Refrigerative Supply Limited",
+      "location": "Coquitlam, Greater Vancouver",
+      "url": "https://www.adzuna.ca/land/ad/5954397556?se=2PtvEc7e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=DF1BF9E883E1C3D9688DD92AC954760A019D5763",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-05T10:19:20Z",
+      "description": "Job Description Job Description RSL\u2019S story: Refrigerative Supply Limited is a family business owned by Alison Hamilton and Linda Gibbs. The business was founded by Peter Gibbs' and Alison Hamilton's parents, Jack and Elizabeth Gibbs. In 1949 they acquired the four-year-old Vancouver branch of an American-based company. From this modest beginning, the Company now has a Head Office in Burnaby, Twen",
+      "matched_keywords": [
+        "technical support"
+      ]
+    },
+    {
+      "score": 50,
+      "title": "VRF & Ductless Technical Support Representative",
+      "company": "Refrigerative Supply Limited",
       "location": "Burnaby, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5957110128?se=tpKzNALe8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=faa80cd6&v=3A08237B8CFB11D788CC395459E74CD074D662DA",
+      "url": "https://www.adzuna.ca/land/ad/5957110128?se=2PtvEc7e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=3A08237B8CFB11D788CC395459E74CD074D662DA",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
@@ -1099,7 +1133,7 @@
       "title": "VRF & Ductless Technical Support Representative",
       "company": "Refrigerative Supply Limited",
       "location": "Abbotsford, Fraser Valley",
-      "url": "https://www.adzuna.ca/land/ad/5954404191?se=tpKzNALe8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=faa80cd6&v=A0F823CAAF0C7D0A860B5EFE4A8C463A49442825",
+      "url": "https://www.adzuna.ca/land/ad/5954404191?se=2PtvEc7e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=A0F823CAAF0C7D0A860B5EFE4A8C463A49442825",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
@@ -1115,7 +1149,7 @@
       "title": "VRF & Ductless Technical Support Representative",
       "company": "Refrigerative Supply Limited",
       "location": "Langley, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5954353632?se=tpKzNALe8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=faa80cd6&v=A8D222C124DB8F92224AC9D0A560471C54139EB6",
+      "url": "https://www.adzuna.ca/land/ad/5954353632?se=2PtvEc7e8RGeRcETzs7BxQ&utm_medium=api&utm_source=faa80cd6&v=A8D222C124DB8F92224AC9D0A560471C54139EB6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
@@ -1128,153 +1162,72 @@
     },
     {
       "score": 50,
-      "title": "VRF & Ductless Technical Support Representative",
-      "company": "Refrigerative Supply Limited",
-      "location": "Coquitlam, Greater Vancouver",
-      "url": "https://www.adzuna.ca/land/ad/5954397556?se=tpKzNALe8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=faa80cd6&v=DF1BF9E883E1C3D9688DD92AC954760A019D5763",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-05T10:19:20Z",
-      "description": "Job Description Job Description RSL\u2019S story: Refrigerative Supply Limited is a family business owned by Alison Hamilton and Linda Gibbs. The business was founded by Peter Gibbs' and Alison Hamilton's parents, Jack and Elizabeth Gibbs. In 1949 they acquired the four-year-old Vancouver branch of an American-based company. From this modest beginning, the Company now has a Head Office in Burnaby, Twen",
-      "matched_keywords": [
-        "technical support"
-      ]
-    },
-    {
-      "score": 50,
-      "title": "Technical Support Representative",
-      "company": "Kelly Services",
-      "location": "London, Middlesex",
-      "url": "https://www.adzuna.ca/details/5961708096?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T08:59:44Z",
-      "description": "Job Description Job Description Technical Support Representative Location: 100% onsite, London ON Contract: 2 years Schedule: Rotating shifts in a 24/7/365 operation; shifts change every two weeks Pay: $21.50/hour for day shifts, plus shift premiums The opportunity We\u2019re looking for a tech-savvy, customer-focused Technical Support Representative to provide first-level technical support to colleagu",
-      "matched_keywords": [
-        "technical support"
-      ]
-    },
-    {
-      "score": 50,
-      "title": "Technical Support Representative",
-      "company": "Kelly Services",
-      "location": "London, Middlesex",
-      "url": "https://www.adzuna.ca/details/5961132464?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": "$44,720\u2013$44,720",
-      "salary_min": 44720,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T00:59:51Z",
-      "description": "Technical Support Representative Location: 100% onsite, London ON Contract: 2 years Schedule: Rotating shifts in a 24/7/365 operation; shifts change every two weeks Pay: $21.50/hour for day shifts, plus shift premiums The opportunity We\u2019re looking for a tech-savvy, customer-focused Technical Support Representative to provide first-level technical support to colleagues. You\u2019ll respond to questions ",
-      "matched_keywords": [
-        "technical support"
-      ]
-    },
-    {
-      "score": 50,
-      "title": "Manager, IT Support - Toronto",
-      "company": "TMX Group",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961952663?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:22:51Z",
-      "description": "Venture outside the ordinary - TMX Careers The TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enhancing capital markets. United as a global team, we\u2019re connecting cross-functionally, traversing industries and geographies, moving opportunity into action, advancing global economic growth, and prope",
-      "matched_keywords": [
-        "IT support"
-      ]
-    },
-    {
-      "score": 50,
-      "title": "IT Support Technician",
-      "company": "Skeena Resources Limited",
-      "location": "Iskut, Kitimat-Stikine",
-      "url": "https://www.adzuna.ca/details/5960418691?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-10T09:20:44Z",
-      "description": "Job Description Job Description Skeena Gold  Silver is a Canadian mining company with a portfolio of exploration and development projects located in northwest British Columbia, Canada. Our current focus is on the revitalization of the high-grade, past-producing Eskay Creek gold-silver mine. Skeena is committed to leading the industry in reconciliation, diversity, and inclusion and we work in close",
-      "matched_keywords": [
-        "IT support"
-      ]
-    },
-    {
-      "score": 50,
       "title": "IT Support Technician",
       "company": "Caron Transportation Systems",
-      "location": "Sherwood Park, Edmonton region",
-      "url": "https://www.adzuna.ca/details/5961716123?utm_medium=api&utm_source=faa80cd6",
+      "location": "Clover Bar, Edmonton",
+      "url": "https://www.adzuna.ca/details/5962896805?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-11T09:07:37Z",
-      "description": "Job Description Job Description We are recognized by our customers and employees as the leaders in safety and environmental responsibility while providing the highest level of service in the industry. Backed by being one of Canada's Best Managed Companies 8 years running and holding the Trucking HR Canada Top Fleet Employer distinction for 9 years in row. We are currently recruiting for an IT Supp",
+      "posted_date": "2026-11-12T05:05:26Z",
+      "description": "We are recognized by our customers and employees as the leaders in safety and environmental responsibility while providing the highest level of service in the industry. Backed by being one of Canada's Best Managed Companies 8 years running and holding the Trucking HR Canada Top Fleet Employer distinction for 9 years in row. We are currently recruiting for an IT Support Technician at our Head Offic",
       "matched_keywords": [
         "IT support"
       ]
     },
     {
       "score": 50,
-      "title": "Bilingual IT Support Analyst",
-      "company": "EMCO Corporation",
-      "location": "London, Middlesex",
-      "url": "https://www.adzuna.ca/details/5960845195?utm_medium=api&utm_source=faa80cd6",
+      "title": "Senior IT Support Specialist",
+      "company": "Instacart",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5962897900?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-10T20:08:00Z",
-      "description": "Job Description Position Summary Hours: Monday - Friday, 7am-3:30pm ET As a member of the IT Operations Team, the Bilingual IT Support Analyst is responsible for providing first line technical support to Emco teammates working out of our over 300 locations across Canada and at our National Support Centre in London, ON. The Tier I Bilingual IT Support Analyst will ensure Emco teammates are receivin",
+      "salary": "$91,000\u2013$96,000",
+      "salary_min": 91000,
+      "job_type": "Full-time",
+      "posted_date": "2026-11-12T05:06:59Z",
+      "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that c",
       "matched_keywords": [
-        "technical support"
+        "IT support"
       ]
     },
     {
       "score": 50,
-      "title": "Brand Ambassador - Lakeshore Campus - Immediate Start",
-      "company": "IGNITE Job Portal",
+      "title": "Brand Ambassador - Marketing Events",
+      "company": "YuJa Inc.",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961472588?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/details/5961710220?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": "$36,608\u2013$36,608",
-      "salary_min": 36608,
-      "job_type": "Part-time",
-      "posted_date": "2026-11-11T04:58:43Z",
-      "description": "POSITION OVERVIEW Please note that only Lakeshore students will be hired for the Lakeshore Campus position. The Brand Ambassador is responsible for increasing IGNITE\u2019s brand awareness and communicating key messages about the brand. Through the execution of promotional activities as well as events and activations, the Brand Ambassador engages the student community to increase their participation in",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Not specified",
+      "posted_date": "2026-11-11T09:01:24Z",
+      "description": "Job Description Job Description About Us YuJa, Inc. is a leading provider of cloud-based digital compliance and accessibility solutions for regulated sectors worldwide. Serving clients in higher education, K-12, government, and healthcare, YuJa enables organizations to meet evolving regulatory demands while delivering engaging, secure, and accessible digital experiences. Our platforms such as Lumi",
       "matched_keywords": [
         "brand ambassador"
       ]
     },
     {
-      "score": 41,
-      "title": "Ab-initio ETL Developer",
-      "company": "Altimetrik",
-      "location": "Mississauga, Peel region",
-      "url": "https://www.adzuna.ca/details/5961953939?utm_medium=api&utm_source=faa80cd6",
+      "score": 50,
+      "title": "Brand Ambassador - North Campus - Immediate Start",
+      "company": "IGNITE Job Portal",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961485420?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:23:08Z",
-      "description": "At least 4 years of application Ab-initio Metadata hub development experience. Strong understanding of Data Lineage, metadata management and reference data development and data analytics. Good knowledge about relational databases like Oracle, SQL / PLSQL, Strong knowledge in one or more of the areas of: Data lineage, application development, python or Java coding experience Hands on experience of ",
+      "salary": "$36,608\u2013$36,608",
+      "salary_min": 36608,
+      "job_type": "Part-time",
+      "posted_date": "2026-11-11T05:11:47Z",
+      "description": "POSITION OVERVIEW Please note that only GH and North students will be hired for the North Campus position. The Brand Ambassador is responsible for increasing IGNITE\u2019s brand awareness and communicating key messages about the brand. Through the execution of promotional activities as well as events and activations, the Brand Ambassador engages the student community to increase their participation in ",
       "matched_keywords": [
-        "Python",
-        "Java"
+        "brand ambassador"
       ]
     },
     {
       "score": 36,
       "title": "Software Development Engineer Intern, ROBOTICS - 2027",
-      "company": "Amazon",
+      "company": "Amazon Inc.",
       "location": "Toronto, Ontario",
       "url": "https://www.adzuna.ca/details/5961951555?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
@@ -1290,68 +1243,98 @@
       ]
     },
     {
-      "score": 36,
-      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
-      "company": "Alternance Amazon",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961946494?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:21:04Z",
-      "description": "There\u2019s a universe of opportunity at Amazon. At Amazon, your career doesn\u2019t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the moment you join, you\u2019re part of something big: building products or services that reach millions and shaping how people live, work, and connect every day. This is where your ideas turn into real impact. You\u2019ll work with ",
-      "matched_keywords": [
-        "software intern (partial)",
-        "AI",
-        "STEM"
-      ]
-    },
-    {
-      "score": 33,
-      "title": "Sr. IT Manager - IT Application Support",
-      "company": "The Toronto-Dominion Bank ",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961949257?utm_medium=api&utm_source=faa80cd6",
+      "score": 35,
+      "title": "Software Engineer",
+      "company": "Ritchie Bros. Auctioneers, Inc.",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5961942211?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:21:52Z",
-      "description": "Work Location: Toronto, Ontario, Canada Hours: 37.5 Line of Business: Technology Solutions Pay Details: $96,900 - $136,800 CAD This role is eligible for a discretionary variable compensation award that considers business and individual performance. TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining f",
+      "posted_date": "2026-11-11T12:20:15Z",
+      "description": "About Us IAA Holdings, LLC (IAA) IAA Holdings, LLC (IAA), a Ritchie Bros. Auctioneers company (NYSE: RBA) and (TSX: RBA), is a trusted global marketplace for insights, services, and transaction solutions for commercial assets and vehicles. Leveraging leading-edge technology and focusing on innovation, IAA's unique platform facilitates the marketing and sale of total-loss, damaged and low-value veh",
+      "matched_keywords": []
+    },
+    {
+      "score": 33,
+      "title": "Instructor, Video Game Coding and Game Design (Calgary)",
+      "company": "Circuit Stream Online Programs",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5961483651?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$19,800\u2013$19,800",
+      "salary_min": 19800,
+      "job_type": "Contract",
+      "posted_date": "2026-11-11T05:09:00Z",
+      "description": "Meet Circuit Stream Where big futures start. Circuit Stream is building the defining youth enrichment brand in North America. We create pre-university summer camps that give young people the chance to explore what they might want to do next, from AI, engineering, medicine and business to psychology, sports, outdoor adventure and more. Through partnerships with leading universities and industry exp",
       "matched_keywords": [
-        "IT support (partial)",
+        "coding instructor (partial)",
         "AI"
       ]
     },
     {
       "score": 33,
-      "title": "Sr. IT Manager - IT Application Support",
-      "company": "TD",
+      "title": "Instructor, Video Game Coding and Game Design (Toronto)",
+      "company": "Circuit Stream Online Programs",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/details/5961474046?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$19,800\u2013$19,800",
+      "salary_min": 19800,
+      "job_type": "Contract",
+      "posted_date": "2026-11-11T04:59:55Z",
+      "description": "Meet Circuit Stream Where big futures start. Circuit Stream is building the defining youth enrichment brand in North America. We create pre-university summer camps that give young people the chance to explore what they might want to do next, from AI, engineering, medicine and business to psychology, sports, outdoor adventure and more. Through partnerships with leading universities and industry exp",
+      "matched_keywords": [
+        "coding instructor (partial)",
+        "AI"
+      ]
+    },
+    {
+      "score": 33,
+      "title": "Instructor, Video Game Coding and Game Design (Vancouver)",
+      "company": "Circuit Stream Online Programs",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/details/5961466338?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": "$19,800\u2013$19,800",
+      "salary_min": 19800,
+      "job_type": "Contract",
+      "posted_date": "2026-11-11T04:52:01Z",
+      "description": "Meet Circuit Stream Where big futures start. Circuit Stream is building the defining youth enrichment brand in North America. We create pre-university summer camps that give young people the chance to explore what they might want to do next, from AI, engineering, medicine and business to psychology, sports, outdoor adventure and more. Through partnerships with leading universities and industry exp",
+      "matched_keywords": [
+        "coding instructor (partial)",
+        "AI"
+      ]
+    },
+    {
+      "score": 33,
+      "title": "Internship - Software Engineering",
+      "company": "Veeda AI",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961937903?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/details/5961485030?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:19:28Z",
-      "description": "Work Location Toronto, Ontario, Canada Hours 37.5 Line Of Business Technology Solutions Pay Details $96,900 - $136,800 CAD This role is eligible for a discretionary variable compensation award that considers business and individual performance. TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining featu",
+      "job_type": "Contract",
+      "posted_date": "2026-11-11T05:11:11Z",
+      "description": "ABOUT US Veeda AI is building the next generation of multimodal foundation world models for Physical AI. We're a small, fast-moving team of engineers and researchers from leading AI labs, tackling some of the most challenging problems at the intersection of AI, robotics, and embodied intelligence. If you're excited about pushing the boundaries of what's possible with Physical AI, you'll have the o",
       "matched_keywords": [
-        "IT support (partial)",
+        "software intern (partial)",
         "AI"
       ]
     },
     {
       "score": 33,
       "title": "Software Engineer, Intern (Summer 2027) - TOR",
-      "company": "DoorDash Canada",
+      "company": "DoorDash",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961954030?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/details/5961943927?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Contract",
-      "posted_date": "2026-11-11T12:23:10Z",
+      "posted_date": "2026-11-11T12:20:34Z",
       "description": "Software Engineer, Intern (Summer 2027) - TOR Toronto, ON About the Team DoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers. About the Role At",
       "matched_keywords": [
         "software intern (partial)",
@@ -1360,215 +1343,69 @@
     },
     {
       "score": 33,
-      "title": "Software Engineer, Intern (Summer 2027) - TOR",
-      "company": "DoorDash, Inc.",
+      "title": "DevOps Analyst Intern",
+      "company": "Hitachi",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961950570?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/details/5961582199?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Contract",
-      "posted_date": "2026-11-11T12:22:16Z",
-      "description": " Software Engineer, Intern (Summer 2027) - TORApply To JobJob ID: 3536322DoorDash Technologies Canada Inc.Toronto, ON About the TeamDoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketpl",
+      "posted_date": "2026-11-11T07:42:12Z",
+      "description": "Location: Toronto, Ontario, Canada Job ID: R0145523 Date Posted: 2026-11-10 Company Name: Hitachi Rail Canada Inc. Profession (Job Category): Administration & Facilities Job Schedule: Full time Work Arrangement: Hybrid About Us A career at Hitachi Rail will help create a legacy. With operations in every corner of the world, our work goes to the cutting-edge of digital transformation and technology",
       "matched_keywords": [
-        "software intern (partial)",
+        "AI intern (partial)",
+        "AI"
+      ]
+    },
+    {
+      "score": 16,
+      "title": "FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months) Markham, Ontario, Canada Interim Engineering Intern - Systems",
+      "company": "QUALCOMM, Inc.",
+      "location": "Markham, York region",
+      "url": "https://www.adzuna.ca/details/5961941831?utm_medium=api&utm_source=faa80cd6",
+      "source": "adzuna",
+      "salary": null,
+      "salary_min": null,
+      "job_type": "Contract",
+      "posted_date": "2026-11-11T12:20:11Z",
+      "description": " FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)Markham, Ontario, CanadaApply NowFind out how well you match with this jobJob ID: 3096484 Company:Qualcomm Canada ULC Job Area:Interns Group, Interns Group > Interim Engineering Intern - Systems Qualcomm Overview:Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration ",
+      "matched_keywords": [
+        "machine learning",
         "STEM"
-      ]
-    },
-    {
-      "score": 33,
-      "title": "Software Developer Intern 8 Months - Winter 2027",
-      "company": "Dayforce",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961450703?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T04:45:33Z",
-      "description": "Job Title: Software Developer Intern Location: Virtual Duration: Winter 2027 - 8 Months (January 2027 - August 2027) Availability: *Full-time availability of 37.5 - 40 hours weekly is required to be eligible for this opportunity. Benefits for Students: Experience working for one of the fastest growing Human Capital Management technology companies in the world and access to Dayforce\u2019s development p",
-      "matched_keywords": [
-        "software intern (partial)",
-        "AI"
-      ]
-    },
-    {
-      "score": 33,
-      "title": "Software Engineer - Intern",
-      "company": "Altera Semiconductor",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961482051?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": "$95,000\u2013$100,000",
-      "salary_min": 95000,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T05:06:46Z",
-      "description": "Job Details: Job Description: Altera is a company of bold and curious inventors and problem solvers who create some of the most astounding technology advancements and experiences in the world. Do you love to solve technical challenges that no one has solved yet? Do you enjoy working with cross functional teams to deliver IP solutions for products that impact customers lives? If so, come join us to",
-      "matched_keywords": [
-        "software intern (partial)",
-        "AI"
-      ]
-    },
-    {
-      "score": 33,
-      "title": "Software Engineering Intern (2027)",
-      "company": "Databricks",
-      "location": "Sainte-Anne-de-Bellevue, Montr\u00e9al",
-      "url": "https://www.adzuna.ca/details/5961947684?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:21:25Z",
-      "description": "P-963 At the company, we are passionate about helping data teams solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering ",
-      "matched_keywords": [
-        "software intern (partial)",
-        "AI"
-      ]
-    },
-    {
-      "score": 33,
-      "title": "AI Product Engineer Internship - Must be eligible for work-integrated learning placement",
-      "company": "Angel Host",
-      "location": "Westmount, Montr\u00e9al",
-      "url": "https://www.adzuna.ca/details/5961471332?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T04:57:33Z",
-      "description": "AI Product Engineer Internship Please make sure to answer all questions on the application form; incomplete forms will be discarded We are looking for someone based in Montreal, Quebec. If you are not from Montreal, your application will be discarded About us Angel Host is a Montreal-based revenue management and listing optimization company serving short-term rental property managers in 14 countri",
-      "matched_keywords": [
-        "AI intern (partial)",
-        "AI"
-      ]
-    },
-    {
-      "score": 33,
-      "title": "D\u00e9veloppeur en infrastructure \u2013 ing\u00e9nierie de plateforme Engineering Montreal September 4, 2026",
-      "company": "MaintainX",
-      "location": "Montr\u00e9al, Qu\u00e9bec",
-      "url": "https://www.adzuna.ca/details/5961957592?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:23:56Z",
-      "description": "D\u00e9veloppeur en infrastructure \u2013 ing\u00e9nierie de plateforme Vous rejoindriez notre \u00e9quipe Infrastructure, au sein de la division Platform Engineering. Nous construisons une plateforme AI-native destin\u00e9e \u00e0 nos d\u00e9veloppeurs internes, plus de 150 aujourd'hui, en nous laissant guider par une question simple : est-ce que cela raccourcit le chemin entre l\u2019id\u00e9e et la valeur cr\u00e9\u00e9e, pour les \u00e9quipes qui const",
-      "matched_keywords": [
-        "AI intern (partial)",
-        "AI"
-      ]
-    },
-    {
-      "score": 30,
-      "title": "Senior Associate, IT, Application Support Analyst (Core Banking)",
-      "company": "MUFG Investor Services",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5960418734?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Not specified",
-      "posted_date": "2026-11-10T09:20:53Z",
-      "description": "Job Description Job Description Company Description MUFG Investor Services is a trusted partner to many of the world\u2019s largest public and private funds, providing asset servicing and operational solutions built for alternatives. With over $1 trillion in client assets under administration, we offer fund administration, banking, payments, fund financing, foreign exchange overlay, corporate and regul",
-      "matched_keywords": [
-        "IT support (partial)"
-      ]
-    },
-    {
-      "score": 30,
-      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
-      "company": "Qualcomm",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961956430?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:23:41Z",
-      "description": "Company: Qualcomm Canada ULC Job Area: Interns Group, Interns Group > Interim Engineering Intern - SW Qualcomm Overview: Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgro",
-      "matched_keywords": [
-        "software intern (partial)"
-      ]
-    },
-    {
-      "score": 30,
-      "title": "Software Development Engineer, VSG, Ring",
-      "company": "Amazon",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961949235?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:21:52Z",
-      "description": "Software Development Engineer, VSG, Ring Ring is looking for a Software Development Engineer to join and help grow the Ring VSG (Virtual Security Guard) team. Ring's mission is to make neighborhoods safer. VSG takes this to the next level by offering customers proactive protection, real-time prevention, and notification. The Ring VSG team is looking for a Software Development Engineer (SDE) who wi",
-      "matched_keywords": [
-        "IT support (partial)"
       ]
     },
     {
       "score": 13,
       "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
-      "company": "DoorDash USA",
+      "company": "DoorDash",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961951879?utm_medium=api&utm_source=faa80cd6",
+      "url": "https://www.adzuna.ca/details/5961941193?utm_medium=api&utm_source=faa80cd6",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Full-time",
-      "posted_date": "2026-11-11T12:22:38Z",
-      "description": "About the Team DoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers. About the Role We are looking for highly motivated recent college graduates",
+      "posted_date": "2026-11-11T12:20:04Z",
+      "description": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027) Toronto, ON About the Team DoorDash is building the world\u2019s most reliable on-demand logistics engine for delivery! We\u2019re looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merch",
       "matched_keywords": [
         "STEM"
       ]
     },
     {
       "score": 13,
-      "title": "Informatica Developer \u2013 IICS/CAI",
-      "company": "Procom",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961941705?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:20:10Z",
-      "description": "1 month ago Be among the first 25 applicants Direct message the job poster from Procom On behalf of our Financial Services client, Procom is searching for a Informatica Developer \u2013 IICS/CAIfor a 7 month contract role. This position is a hybrid position with 2 days onsite at our client\u2019s Toronto, ON office. Job Description: The project involves leveraging Informatica Intelligent Cloud Services (IIC",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "score": 13,
-      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
-      "company": "Qualcomm Incorporated",
-      "location": "Markham, York region",
-      "url": "https://www.adzuna.ca/details/5961955764?utm_medium=api&utm_source=faa80cd6",
-      "source": "adzuna",
-      "salary": null,
-      "salary_min": null,
-      "job_type": "Contract",
-      "posted_date": "2026-11-11T12:23:34Z",
-      "description": "Company Qualcomm Canada ULC Job Area Interns Group, Interns Group > Interim Engineering Intern - Systems Qualcomm Overview Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backg",
-      "matched_keywords": [
-        "STEM"
-      ]
-    },
-    {
-      "score": 10,
-      "title": "Software Developer 1",
-      "company": "Intuit, Inc.",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5961955949?utm_medium=api&utm_source=faa80cd6",
+      "title": "Administration Assistant at Dental /Dental Receptionist Vancouver, BC",
+      "company": "Lighthouse Dental",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/land/ad/5960313890?se=qB6dGc7e8RGZqo4-VsdaPQ&utm_medium=api&utm_source=faa80cd6&v=E0F5CDBE707D7765F804597963AD17FB3B952A26",
       "source": "adzuna",
       "salary": null,
       "salary_min": null,
       "job_type": "Not specified",
-      "posted_date": "2026-11-11T12:23:36Z",
-      "description": "Come join the DataX team as a Software Engineer 1! DataX captures customer tax data from any source, at any point in the tax experience. That includes documents customers upload from their computer, photos of paper forms taken on their phone, and data imported directly from third parties like payroll providers and financial institutions. We classify each document, extract the tax information, and ",
-      "matched_keywords": []
+      "posted_date": "2026-11-10T08:06:18Z",
+      "description": "Job Description Job Description Job description About us Lighthouse Dental is a small business in Vancouver, BC. We are fun, customer-centric, rewarding and our goal is to spread the smile, spread happiness Our work environment includes: Growth opportunities Lively atmosphere On-the-job training Would you like working in a positive, progressive dental office that has an excellent team and is commi",
+      "matched_keywords": [
+        "AI"
+      ]
     }
   ]
 }
